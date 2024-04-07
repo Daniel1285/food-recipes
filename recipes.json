@@ -1,0 +1,115 @@
+[
+    {
+        "label": "Rotisserie Chicken Recipe",
+        "ingredients": [
+            "1 whole chicken, about 4 pounds",
+            "2 tablespoons kosher salt",
+            "2 tablespoons butter, melted"
+        ],
+        "img": "https://edamam-product-images.s3.amazonaws.com/web-img/88e/88edb31264dc1e58b37c2fec3f99a244.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGkaCXVzLWVhc3QtMSJIMEYCIQCmlAvA%2BboNJqA5NJtJ%2F6M1KQgwkmZLgyT14kaFZZPnMwIhAIseLJ%2B9F%2BMmr%2FKISJU2WF2oMV2QRQMkPt3HqD%2BKbh5KKsEFCJL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMTg3MDE3MTUwOTg2IgyweeHIxTx7pUK3EVsqlQWX1ThzVhOUBltJkBrnsb2B87Bj8tCBBN1UH6aEzVWLFG0%2B2K%2FeS5MWlKjUTHgZ4DEcuf8aIevYPHaVajd9oChZDTCHPD%2FhXt8R60Z00qkD1RkSSZJCXzq0ZTczoN4Ki0CqQeUcXxW%2Bz5JYm%2Bbjz1DRKT2A3RxanBFwBNYz7xB8nTETZdz1%2F%2BNwqjYgUcITe0n3dLGDkFGyQdQ1j1uC0ergoAYvW9pdoBzsCtTnAtj1eixhU0AKmx5v1Ze6P56rMHPicYCH3Szr5ftfbscEFPGQ%2Bhs5kkPoUZ0rJO0MJGqAtWQ4XUBsFM8GZUDp6q%2FixGcWPGKUUm265nu7RKp%2BVsAL%2BAElMXq%2B7p4u5jfpgKti5WmPESEMYa3i1LNHqcdeeGJedH1duEuPViqhASRMjCBNCUW5hTcohmK%2Bo7Vxu3fPbUoowdsGE%2FzT9Rf2Qgiszg9bYZx31MHIOnwP5w2MbxueXBDWZT0PxRBJADLaJ260RuJyWJMec7V3wP9gt0R33YLLvWdehQN%2FWeHCbQBWR%2F%2FHlSqqFejbD%2F2AzPqpWKerFt97GgrBbKWNhsqNYgPp6zi%2F0UysKjNKGca6Vx3%2FH%2Fu4XaO6vL7spO55lkun5CMMMwMi73FqTSdDA4yHbF9p7S4LPs%2F%2BONEDsMSeB8dG7YgGtwZPlemmRhsivoxuqdMdcOfZGIfEEBkvGA2UnGBp%2BHjzch5UNjBUXJkHKcRCfmmq1HqMkdkn%2BqXIIwuwUPNlu%2FC%2F%2FBZPKk3UKEt2sHbJHQkOv2wC1DHFkJmtRf%2BDDSGJ%2BKKvoyVwuzPTd20bSaIvqTGcQzVWfCxPGS8t8b2zyNYSGRKvicsXltTo5nXex7NJAsIGyoYNVG7ZS9n0%2Fkf%2BGWXU5miQMMa3u7AGOrABfnb9ki6hJ0jybPWC5Br5bxIVyd%2BeoOOCT8MR1UUx4WvK7egBTWjoZYXFId03%2BPFsob%2BKEW7Xirxat9ul3w55%2FA9BP3pBvQl4YHRdxO%2BtD44a8e3vM7T2Nui5lk2dVx5SeQRzbnBj8r%2B9mhJ0F0mwQgDHc0%2BKwFGAGigGrjbKirfpoCmCMUJqx6nIwd2T6x7J3UrvfFHFVU0VfuW0O3QDSJKoOqSsomvCHM0%2F0g%2BsUrY%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240404T181753Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFIFOMTOPU%2F20240404%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=78fd6ec8d16af149c0374c07423e6cfaa852ed7f35322eb3e37246c755aed316",
+        "url": "https://www.seriouseats.com/basic-rotisserie-chicken-recipe"
+    },
+    {
+        "label": "Jamaican jerk chicken",
+        "ingredients": [
+            "2 chicken thighs",
+            "2 chicken legs"
+        ],
+        "img": "https://edamam-product-images.s3.amazonaws.com/web-img/05b/05b69e86d6af7eb3795d6d5d5a400fc5.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGkaCXVzLWVhc3QtMSJIMEYCIQCmlAvA%2BboNJqA5NJtJ%2F6M1KQgwkmZLgyT14kaFZZPnMwIhAIseLJ%2B9F%2BMmr%2FKISJU2WF2oMV2QRQMkPt3HqD%2BKbh5KKsEFCJL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMTg3MDE3MTUwOTg2IgyweeHIxTx7pUK3EVsqlQWX1ThzVhOUBltJkBrnsb2B87Bj8tCBBN1UH6aEzVWLFG0%2B2K%2FeS5MWlKjUTHgZ4DEcuf8aIevYPHaVajd9oChZDTCHPD%2FhXt8R60Z00qkD1RkSSZJCXzq0ZTczoN4Ki0CqQeUcXxW%2Bz5JYm%2Bbjz1DRKT2A3RxanBFwBNYz7xB8nTETZdz1%2F%2BNwqjYgUcITe0n3dLGDkFGyQdQ1j1uC0ergoAYvW9pdoBzsCtTnAtj1eixhU0AKmx5v1Ze6P56rMHPicYCH3Szr5ftfbscEFPGQ%2Bhs5kkPoUZ0rJO0MJGqAtWQ4XUBsFM8GZUDp6q%2FixGcWPGKUUm265nu7RKp%2BVsAL%2BAElMXq%2B7p4u5jfpgKti5WmPESEMYa3i1LNHqcdeeGJedH1duEuPViqhASRMjCBNCUW5hTcohmK%2Bo7Vxu3fPbUoowdsGE%2FzT9Rf2Qgiszg9bYZx31MHIOnwP5w2MbxueXBDWZT0PxRBJADLaJ260RuJyWJMec7V3wP9gt0R33YLLvWdehQN%2FWeHCbQBWR%2F%2FHlSqqFejbD%2F2AzPqpWKerFt97GgrBbKWNhsqNYgPp6zi%2F0UysKjNKGca6Vx3%2FH%2Fu4XaO6vL7spO55lkun5CMMMwMi73FqTSdDA4yHbF9p7S4LPs%2F%2BONEDsMSeB8dG7YgGtwZPlemmRhsivoxuqdMdcOfZGIfEEBkvGA2UnGBp%2BHjzch5UNjBUXJkHKcRCfmmq1HqMkdkn%2BqXIIwuwUPNlu%2FC%2F%2FBZPKk3UKEt2sHbJHQkOv2wC1DHFkJmtRf%2BDDSGJ%2BKKvoyVwuzPTd20bSaIvqTGcQzVWfCxPGS8t8b2zyNYSGRKvicsXltTo5nXex7NJAsIGyoYNVG7ZS9n0%2Fkf%2BGWXU5miQMMa3u7AGOrABfnb9ki6hJ0jybPWC5Br5bxIVyd%2BeoOOCT8MR1UUx4WvK7egBTWjoZYXFId03%2BPFsob%2BKEW7Xirxat9ul3w55%2FA9BP3pBvQl4YHRdxO%2BtD44a8e3vM7T2Nui5lk2dVx5SeQRzbnBj8r%2B9mhJ0F0mwQgDHc0%2BKwFGAGigGrjbKirfpoCmCMUJqx6nIwd2T6x7J3UrvfFHFVU0VfuW0O3QDSJKoOqSsomvCHM0%2F0g%2BsUrY%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240404T181753Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFIFOMTOPU%2F20240404%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=1ec1561f836f0fd3b7d0fbb824a6b0e7515000ff474303b964503295bdc18b51",
+        "url": "https://www.bbcgoodfood.com/recipes/jamaican-jerk-chicken"
+    },
+    {
+        "label": "Teriyaki Chicken",
+        "ingredients": [
+            "1/2 cup (125ml) mirin",
+            "1/2 cup (125ml) soy sauce",
+            "One 2-inch (5cm) piece of fresh ginger, peeled and grated",
+            "2-pounds (900g) boneless chicken thighs (4-8 thighs, depending on size)"
+        ],
+        "img": "https://edamam-product-images.s3.amazonaws.com/web-img/262/262b4353ca25074178ead2a07cdf7dc1.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGkaCXVzLWVhc3QtMSJIMEYCIQCmlAvA%2BboNJqA5NJtJ%2F6M1KQgwkmZLgyT14kaFZZPnMwIhAIseLJ%2B9F%2BMmr%2FKISJU2WF2oMV2QRQMkPt3HqD%2BKbh5KKsEFCJL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMTg3MDE3MTUwOTg2IgyweeHIxTx7pUK3EVsqlQWX1ThzVhOUBltJkBrnsb2B87Bj8tCBBN1UH6aEzVWLFG0%2B2K%2FeS5MWlKjUTHgZ4DEcuf8aIevYPHaVajd9oChZDTCHPD%2FhXt8R60Z00qkD1RkSSZJCXzq0ZTczoN4Ki0CqQeUcXxW%2Bz5JYm%2Bbjz1DRKT2A3RxanBFwBNYz7xB8nTETZdz1%2F%2BNwqjYgUcITe0n3dLGDkFGyQdQ1j1uC0ergoAYvW9pdoBzsCtTnAtj1eixhU0AKmx5v1Ze6P56rMHPicYCH3Szr5ftfbscEFPGQ%2Bhs5kkPoUZ0rJO0MJGqAtWQ4XUBsFM8GZUDp6q%2FixGcWPGKUUm265nu7RKp%2BVsAL%2BAElMXq%2B7p4u5jfpgKti5WmPESEMYa3i1LNHqcdeeGJedH1duEuPViqhASRMjCBNCUW5hTcohmK%2Bo7Vxu3fPbUoowdsGE%2FzT9Rf2Qgiszg9bYZx31MHIOnwP5w2MbxueXBDWZT0PxRBJADLaJ260RuJyWJMec7V3wP9gt0R33YLLvWdehQN%2FWeHCbQBWR%2F%2FHlSqqFejbD%2F2AzPqpWKerFt97GgrBbKWNhsqNYgPp6zi%2F0UysKjNKGca6Vx3%2FH%2Fu4XaO6vL7spO55lkun5CMMMwMi73FqTSdDA4yHbF9p7S4LPs%2F%2BONEDsMSeB8dG7YgGtwZPlemmRhsivoxuqdMdcOfZGIfEEBkvGA2UnGBp%2BHjzch5UNjBUXJkHKcRCfmmq1HqMkdkn%2BqXIIwuwUPNlu%2FC%2F%2FBZPKk3UKEt2sHbJHQkOv2wC1DHFkJmtRf%2BDDSGJ%2BKKvoyVwuzPTd20bSaIvqTGcQzVWfCxPGS8t8b2zyNYSGRKvicsXltTo5nXex7NJAsIGyoYNVG7ZS9n0%2Fkf%2BGWXU5miQMMa3u7AGOrABfnb9ki6hJ0jybPWC5Br5bxIVyd%2BeoOOCT8MR1UUx4WvK7egBTWjoZYXFId03%2BPFsob%2BKEW7Xirxat9ul3w55%2FA9BP3pBvQl4YHRdxO%2BtD44a8e3vM7T2Nui5lk2dVx5SeQRzbnBj8r%2B9mhJ0F0mwQgDHc0%2BKwFGAGigGrjbKirfpoCmCMUJqx6nIwd2T6x7J3UrvfFHFVU0VfuW0O3QDSJKoOqSsomvCHM0%2F0g%2BsUrY%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240404T181753Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFIFOMTOPU%2F20240404%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=964075362d0a24a0513e1357585c6fd6dd809002ed5b268e46aa544ebfb1cca9",
+        "url": "http://www.davidlebovitz.com/2012/12/chicken-teriyaki-recipe-japanese-farm-food/"
+    },
+    {
+        "label": "Chicken Paprikash",
+        "ingredients": [
+            "640 grams chicken - drumsticks and thighs ( 3 whole chicken legs cut apart)",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "1 tablespoon butter – cultured unsalted (or olive oil)",
+            "240 grams onion sliced thin (1 large onion)",
+            "70 grams Anaheim pepper chopped (1 large pepper)",
+            "25 grams paprika (about 1/4 cup)",
+            "1 cup chicken stock",
+            "1/2 teaspoon salt",
+            "1/2 cup sour cream",
+            "1 tablespoon flour – all-purpose"
+        ],
+        "img": "https://edamam-product-images.s3.amazonaws.com/web-img/e12/e12b8c5581226d7639168f41d126f2ff.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGkaCXVzLWVhc3QtMSJIMEYCIQCmlAvA%2BboNJqA5NJtJ%2F6M1KQgwkmZLgyT14kaFZZPnMwIhAIseLJ%2B9F%2BMmr%2FKISJU2WF2oMV2QRQMkPt3HqD%2BKbh5KKsEFCJL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMTg3MDE3MTUwOTg2IgyweeHIxTx7pUK3EVsqlQWX1ThzVhOUBltJkBrnsb2B87Bj8tCBBN1UH6aEzVWLFG0%2B2K%2FeS5MWlKjUTHgZ4DEcuf8aIevYPHaVajd9oChZDTCHPD%2FhXt8R60Z00qkD1RkSSZJCXzq0ZTczoN4Ki0CqQeUcXxW%2Bz5JYm%2Bbjz1DRKT2A3RxanBFwBNYz7xB8nTETZdz1%2F%2BNwqjYgUcITe0n3dLGDkFGyQdQ1j1uC0ergoAYvW9pdoBzsCtTnAtj1eixhU0AKmx5v1Ze6P56rMHPicYCH3Szr5ftfbscEFPGQ%2Bhs5kkPoUZ0rJO0MJGqAtWQ4XUBsFM8GZUDp6q%2FixGcWPGKUUm265nu7RKp%2BVsAL%2BAElMXq%2B7p4u5jfpgKti5WmPESEMYa3i1LNHqcdeeGJedH1duEuPViqhASRMjCBNCUW5hTcohmK%2Bo7Vxu3fPbUoowdsGE%2FzT9Rf2Qgiszg9bYZx31MHIOnwP5w2MbxueXBDWZT0PxRBJADLaJ260RuJyWJMec7V3wP9gt0R33YLLvWdehQN%2FWeHCbQBWR%2F%2FHlSqqFejbD%2F2AzPqpWKerFt97GgrBbKWNhsqNYgPp6zi%2F0UysKjNKGca6Vx3%2FH%2Fu4XaO6vL7spO55lkun5CMMMwMi73FqTSdDA4yHbF9p7S4LPs%2F%2BONEDsMSeB8dG7YgGtwZPlemmRhsivoxuqdMdcOfZGIfEEBkvGA2UnGBp%2BHjzch5UNjBUXJkHKcRCfmmq1HqMkdkn%2BqXIIwuwUPNlu%2FC%2F%2FBZPKk3UKEt2sHbJHQkOv2wC1DHFkJmtRf%2BDDSGJ%2BKKvoyVwuzPTd20bSaIvqTGcQzVWfCxPGS8t8b2zyNYSGRKvicsXltTo5nXex7NJAsIGyoYNVG7ZS9n0%2Fkf%2BGWXU5miQMMa3u7AGOrABfnb9ki6hJ0jybPWC5Br5bxIVyd%2BeoOOCT8MR1UUx4WvK7egBTWjoZYXFId03%2BPFsob%2BKEW7Xirxat9ul3w55%2FA9BP3pBvQl4YHRdxO%2BtD44a8e3vM7T2Nui5lk2dVx5SeQRzbnBj8r%2B9mhJ0F0mwQgDHc0%2BKwFGAGigGrjbKirfpoCmCMUJqx6nIwd2T6x7J3UrvfFHFVU0VfuW0O3QDSJKoOqSsomvCHM0%2F0g%2BsUrY%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240404T181753Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFIFOMTOPU%2F20240404%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=2d44e1bcd09ec375271d522cec23e6c9f5bb86df83ff1ba645f987d1fb0b75f8",
+        "url": "http://norecipes.com/recipe/chicken-paprikash/"
+    },
+    {
+        "label": "peasant chicken",
+        "ingredients": [
+            "1 chicken",
+            "2-3 potatoes",
+            "1 onion",
+            "3-4 mushrooms"
+        ],
+        "img": "https://edamam-product-images.s3.amazonaws.com/web-img/d7a/d7aadde1ff6875e8d46f46c692691d73.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGkaCXVzLWVhc3QtMSJIMEYCIQCmlAvA%2BboNJqA5NJtJ%2F6M1KQgwkmZLgyT14kaFZZPnMwIhAIseLJ%2B9F%2BMmr%2FKISJU2WF2oMV2QRQMkPt3HqD%2BKbh5KKsEFCJL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMTg3MDE3MTUwOTg2IgyweeHIxTx7pUK3EVsqlQWX1ThzVhOUBltJkBrnsb2B87Bj8tCBBN1UH6aEzVWLFG0%2B2K%2FeS5MWlKjUTHgZ4DEcuf8aIevYPHaVajd9oChZDTCHPD%2FhXt8R60Z00qkD1RkSSZJCXzq0ZTczoN4Ki0CqQeUcXxW%2Bz5JYm%2Bbjz1DRKT2A3RxanBFwBNYz7xB8nTETZdz1%2F%2BNwqjYgUcITe0n3dLGDkFGyQdQ1j1uC0ergoAYvW9pdoBzsCtTnAtj1eixhU0AKmx5v1Ze6P56rMHPicYCH3Szr5ftfbscEFPGQ%2Bhs5kkPoUZ0rJO0MJGqAtWQ4XUBsFM8GZUDp6q%2FixGcWPGKUUm265nu7RKp%2BVsAL%2BAElMXq%2B7p4u5jfpgKti5WmPESEMYa3i1LNHqcdeeGJedH1duEuPViqhASRMjCBNCUW5hTcohmK%2Bo7Vxu3fPbUoowdsGE%2FzT9Rf2Qgiszg9bYZx31MHIOnwP5w2MbxueXBDWZT0PxRBJADLaJ260RuJyWJMec7V3wP9gt0R33YLLvWdehQN%2FWeHCbQBWR%2F%2FHlSqqFejbD%2F2AzPqpWKerFt97GgrBbKWNhsqNYgPp6zi%2F0UysKjNKGca6Vx3%2FH%2Fu4XaO6vL7spO55lkun5CMMMwMi73FqTSdDA4yHbF9p7S4LPs%2F%2BONEDsMSeB8dG7YgGtwZPlemmRhsivoxuqdMdcOfZGIfEEBkvGA2UnGBp%2BHjzch5UNjBUXJkHKcRCfmmq1HqMkdkn%2BqXIIwuwUPNlu%2FC%2F%2FBZPKk3UKEt2sHbJHQkOv2wC1DHFkJmtRf%2BDDSGJ%2BKKvoyVwuzPTd20bSaIvqTGcQzVWfCxPGS8t8b2zyNYSGRKvicsXltTo5nXex7NJAsIGyoYNVG7ZS9n0%2Fkf%2BGWXU5miQMMa3u7AGOrABfnb9ki6hJ0jybPWC5Br5bxIVyd%2BeoOOCT8MR1UUx4WvK7egBTWjoZYXFId03%2BPFsob%2BKEW7Xirxat9ul3w55%2FA9BP3pBvQl4YHRdxO%2BtD44a8e3vM7T2Nui5lk2dVx5SeQRzbnBj8r%2B9mhJ0F0mwQgDHc0%2BKwFGAGigGrjbKirfpoCmCMUJqx6nIwd2T6x7J3UrvfFHFVU0VfuW0O3QDSJKoOqSsomvCHM0%2F0g%2BsUrY%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240404T181753Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFIFOMTOPU%2F20240404%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=ffe62638fa13adbd6b31e12cfa61502507eacb2fee0d70332edb5918504d6d9a",
+        "url": "https://food52.com/recipes/26667-peasant-chicken"
+    },
+    {
+        "label": "Chicken Tonnato",
+        "ingredients": [
+            "1 tablespoon olive oil",
+            "Two 12-ounce chicken breasts, boned and halved"
+        ],
+        "img": "https://edamam-product-images.s3.amazonaws.com/web-img/99e/99e834e92bef3dffb6df1c3bb1fa3cdb?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGkaCXVzLWVhc3QtMSJIMEYCIQCmlAvA%2BboNJqA5NJtJ%2F6M1KQgwkmZLgyT14kaFZZPnMwIhAIseLJ%2B9F%2BMmr%2FKISJU2WF2oMV2QRQMkPt3HqD%2BKbh5KKsEFCJL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMTg3MDE3MTUwOTg2IgyweeHIxTx7pUK3EVsqlQWX1ThzVhOUBltJkBrnsb2B87Bj8tCBBN1UH6aEzVWLFG0%2B2K%2FeS5MWlKjUTHgZ4DEcuf8aIevYPHaVajd9oChZDTCHPD%2FhXt8R60Z00qkD1RkSSZJCXzq0ZTczoN4Ki0CqQeUcXxW%2Bz5JYm%2Bbjz1DRKT2A3RxanBFwBNYz7xB8nTETZdz1%2F%2BNwqjYgUcITe0n3dLGDkFGyQdQ1j1uC0ergoAYvW9pdoBzsCtTnAtj1eixhU0AKmx5v1Ze6P56rMHPicYCH3Szr5ftfbscEFPGQ%2Bhs5kkPoUZ0rJO0MJGqAtWQ4XUBsFM8GZUDp6q%2FixGcWPGKUUm265nu7RKp%2BVsAL%2BAElMXq%2B7p4u5jfpgKti5WmPESEMYa3i1LNHqcdeeGJedH1duEuPViqhASRMjCBNCUW5hTcohmK%2Bo7Vxu3fPbUoowdsGE%2FzT9Rf2Qgiszg9bYZx31MHIOnwP5w2MbxueXBDWZT0PxRBJADLaJ260RuJyWJMec7V3wP9gt0R33YLLvWdehQN%2FWeHCbQBWR%2F%2FHlSqqFejbD%2F2AzPqpWKerFt97GgrBbKWNhsqNYgPp6zi%2F0UysKjNKGca6Vx3%2FH%2Fu4XaO6vL7spO55lkun5CMMMwMi73FqTSdDA4yHbF9p7S4LPs%2F%2BONEDsMSeB8dG7YgGtwZPlemmRhsivoxuqdMdcOfZGIfEEBkvGA2UnGBp%2BHjzch5UNjBUXJkHKcRCfmmq1HqMkdkn%2BqXIIwuwUPNlu%2FC%2F%2FBZPKk3UKEt2sHbJHQkOv2wC1DHFkJmtRf%2BDDSGJ%2BKKvoyVwuzPTd20bSaIvqTGcQzVWfCxPGS8t8b2zyNYSGRKvicsXltTo5nXex7NJAsIGyoYNVG7ZS9n0%2Fkf%2BGWXU5miQMMa3u7AGOrABfnb9ki6hJ0jybPWC5Br5bxIVyd%2BeoOOCT8MR1UUx4WvK7egBTWjoZYXFId03%2BPFsob%2BKEW7Xirxat9ul3w55%2FA9BP3pBvQl4YHRdxO%2BtD44a8e3vM7T2Nui5lk2dVx5SeQRzbnBj8r%2B9mhJ0F0mwQgDHc0%2BKwFGAGigGrjbKirfpoCmCMUJqx6nIwd2T6x7J3UrvfFHFVU0VfuW0O3QDSJKoOqSsomvCHM0%2F0g%2BsUrY%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240404T181753Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFIFOMTOPU%2F20240404%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=229ba31e6ff7d5db1ed4b6bf34433972facd49ae34672a8413305a0fd98b1114",
+        "url": "https://www.marthastewart.com/317902/chicken-tonnato"
+    },
+    {
+        "label": "Brick Chicken",
+        "ingredients": [
+            "1 (4-lb.) chicken, halved, backbone, ribcage, and thighbones removed",
+            "Kosher salt and freshly ground black pepper, to taste",
+            "2 tbsp. canola oil",
+            "1⁄3 cup chicken broth",
+            "1 tbsp. lemon juice"
+        ],
+        "img": "https://edamam-product-images.s3.amazonaws.com/web-img/259/259d3ad79284faceabeb7c8e675d53eb.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGkaCXVzLWVhc3QtMSJIMEYCIQCmlAvA%2BboNJqA5NJtJ%2F6M1KQgwkmZLgyT14kaFZZPnMwIhAIseLJ%2B9F%2BMmr%2FKISJU2WF2oMV2QRQMkPt3HqD%2BKbh5KKsEFCJL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMTg3MDE3MTUwOTg2IgyweeHIxTx7pUK3EVsqlQWX1ThzVhOUBltJkBrnsb2B87Bj8tCBBN1UH6aEzVWLFG0%2B2K%2FeS5MWlKjUTHgZ4DEcuf8aIevYPHaVajd9oChZDTCHPD%2FhXt8R60Z00qkD1RkSSZJCXzq0ZTczoN4Ki0CqQeUcXxW%2Bz5JYm%2Bbjz1DRKT2A3RxanBFwBNYz7xB8nTETZdz1%2F%2BNwqjYgUcITe0n3dLGDkFGyQdQ1j1uC0ergoAYvW9pdoBzsCtTnAtj1eixhU0AKmx5v1Ze6P56rMHPicYCH3Szr5ftfbscEFPGQ%2Bhs5kkPoUZ0rJO0MJGqAtWQ4XUBsFM8GZUDp6q%2FixGcWPGKUUm265nu7RKp%2BVsAL%2BAElMXq%2B7p4u5jfpgKti5WmPESEMYa3i1LNHqcdeeGJedH1duEuPViqhASRMjCBNCUW5hTcohmK%2Bo7Vxu3fPbUoowdsGE%2FzT9Rf2Qgiszg9bYZx31MHIOnwP5w2MbxueXBDWZT0PxRBJADLaJ260RuJyWJMec7V3wP9gt0R33YLLvWdehQN%2FWeHCbQBWR%2F%2FHlSqqFejbD%2F2AzPqpWKerFt97GgrBbKWNhsqNYgPp6zi%2F0UysKjNKGca6Vx3%2FH%2Fu4XaO6vL7spO55lkun5CMMMwMi73FqTSdDA4yHbF9p7S4LPs%2F%2BONEDsMSeB8dG7YgGtwZPlemmRhsivoxuqdMdcOfZGIfEEBkvGA2UnGBp%2BHjzch5UNjBUXJkHKcRCfmmq1HqMkdkn%2BqXIIwuwUPNlu%2FC%2F%2FBZPKk3UKEt2sHbJHQkOv2wC1DHFkJmtRf%2BDDSGJ%2BKKvoyVwuzPTd20bSaIvqTGcQzVWfCxPGS8t8b2zyNYSGRKvicsXltTo5nXex7NJAsIGyoYNVG7ZS9n0%2Fkf%2BGWXU5miQMMa3u7AGOrABfnb9ki6hJ0jybPWC5Br5bxIVyd%2BeoOOCT8MR1UUx4WvK7egBTWjoZYXFId03%2BPFsob%2BKEW7Xirxat9ul3w55%2FA9BP3pBvQl4YHRdxO%2BtD44a8e3vM7T2Nui5lk2dVx5SeQRzbnBj8r%2B9mhJ0F0mwQgDHc0%2BKwFGAGigGrjbKirfpoCmCMUJqx6nIwd2T6x7J3UrvfFHFVU0VfuW0O3QDSJKoOqSsomvCHM0%2F0g%2BsUrY%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240404T181753Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFIFOMTOPU%2F20240404%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=9b66775d0d3cfe6d6463c0f23c626917e0b29a31ec4ba230f0aaaa33903ab62e",
+        "url": "https://www.saveur.com/article/Recipes/Brick-Chicken/"
+    },
+    {
+        "label": "Catalan Chicken",
+        "ingredients": [
+            "1 whole 4-pound chicken, quartered",
+            "8 slices bacon",
+            "30 cloves garlic",
+            "3 lemons, peeled, rinds thinly sliced and reserved",
+            "½ cup Banyuls or another fortified dessert wine",
+            "1 cup veal or chicken stock"
+        ],
+        "img": "https://edamam-product-images.s3.amazonaws.com/web-img/4d9/4d9084cbc170789caa9e997108b595de.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGkaCXVzLWVhc3QtMSJIMEYCIQCmlAvA%2BboNJqA5NJtJ%2F6M1KQgwkmZLgyT14kaFZZPnMwIhAIseLJ%2B9F%2BMmr%2FKISJU2WF2oMV2QRQMkPt3HqD%2BKbh5KKsEFCJL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMTg3MDE3MTUwOTg2IgyweeHIxTx7pUK3EVsqlQWX1ThzVhOUBltJkBrnsb2B87Bj8tCBBN1UH6aEzVWLFG0%2B2K%2FeS5MWlKjUTHgZ4DEcuf8aIevYPHaVajd9oChZDTCHPD%2FhXt8R60Z00qkD1RkSSZJCXzq0ZTczoN4Ki0CqQeUcXxW%2Bz5JYm%2Bbjz1DRKT2A3RxanBFwBNYz7xB8nTETZdz1%2F%2BNwqjYgUcITe0n3dLGDkFGyQdQ1j1uC0ergoAYvW9pdoBzsCtTnAtj1eixhU0AKmx5v1Ze6P56rMHPicYCH3Szr5ftfbscEFPGQ%2Bhs5kkPoUZ0rJO0MJGqAtWQ4XUBsFM8GZUDp6q%2FixGcWPGKUUm265nu7RKp%2BVsAL%2BAElMXq%2B7p4u5jfpgKti5WmPESEMYa3i1LNHqcdeeGJedH1duEuPViqhASRMjCBNCUW5hTcohmK%2Bo7Vxu3fPbUoowdsGE%2FzT9Rf2Qgiszg9bYZx31MHIOnwP5w2MbxueXBDWZT0PxRBJADLaJ260RuJyWJMec7V3wP9gt0R33YLLvWdehQN%2FWeHCbQBWR%2F%2FHlSqqFejbD%2F2AzPqpWKerFt97GgrBbKWNhsqNYgPp6zi%2F0UysKjNKGca6Vx3%2FH%2Fu4XaO6vL7spO55lkun5CMMMwMi73FqTSdDA4yHbF9p7S4LPs%2F%2BONEDsMSeB8dG7YgGtwZPlemmRhsivoxuqdMdcOfZGIfEEBkvGA2UnGBp%2BHjzch5UNjBUXJkHKcRCfmmq1HqMkdkn%2BqXIIwuwUPNlu%2FC%2F%2FBZPKk3UKEt2sHbJHQkOv2wC1DHFkJmtRf%2BDDSGJ%2BKKvoyVwuzPTd20bSaIvqTGcQzVWfCxPGS8t8b2zyNYSGRKvicsXltTo5nXex7NJAsIGyoYNVG7ZS9n0%2Fkf%2BGWXU5miQMMa3u7AGOrABfnb9ki6hJ0jybPWC5Br5bxIVyd%2BeoOOCT8MR1UUx4WvK7egBTWjoZYXFId03%2BPFsob%2BKEW7Xirxat9ul3w55%2FA9BP3pBvQl4YHRdxO%2BtD44a8e3vM7T2Nui5lk2dVx5SeQRzbnBj8r%2B9mhJ0F0mwQgDHc0%2BKwFGAGigGrjbKirfpoCmCMUJqx6nIwd2T6x7J3UrvfFHFVU0VfuW0O3QDSJKoOqSsomvCHM0%2F0g%2BsUrY%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240404T181753Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFIFOMTOPU%2F20240404%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=26d141e11c09fd5684b97dbb73ed0987defd25335dc1a6d534830de3f1127718",
+        "url": "http://www.bonappetit.com/columns/breadwinner/article/how-to-get-your-kids-to-eat-sauce-let-them-cook-it-themselves"
+    },
+    {
+        "label": "Grilled Butterflied Chicken Recipe",
+        "ingredients": [
+            "1 whole chicken, 3 1/2 to 4 pounds",
+            "Kosher salt and freshly ground black pepper"
+        ],
+        "img": "https://edamam-product-images.s3.amazonaws.com/web-img/7a2/7a2f41a7891e8a8f8a087a96930c6463.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGkaCXVzLWVhc3QtMSJIMEYCIQCmlAvA%2BboNJqA5NJtJ%2F6M1KQgwkmZLgyT14kaFZZPnMwIhAIseLJ%2B9F%2BMmr%2FKISJU2WF2oMV2QRQMkPt3HqD%2BKbh5KKsEFCJL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMTg3MDE3MTUwOTg2IgyweeHIxTx7pUK3EVsqlQWX1ThzVhOUBltJkBrnsb2B87Bj8tCBBN1UH6aEzVWLFG0%2B2K%2FeS5MWlKjUTHgZ4DEcuf8aIevYPHaVajd9oChZDTCHPD%2FhXt8R60Z00qkD1RkSSZJCXzq0ZTczoN4Ki0CqQeUcXxW%2Bz5JYm%2Bbjz1DRKT2A3RxanBFwBNYz7xB8nTETZdz1%2F%2BNwqjYgUcITe0n3dLGDkFGyQdQ1j1uC0ergoAYvW9pdoBzsCtTnAtj1eixhU0AKmx5v1Ze6P56rMHPicYCH3Szr5ftfbscEFPGQ%2Bhs5kkPoUZ0rJO0MJGqAtWQ4XUBsFM8GZUDp6q%2FixGcWPGKUUm265nu7RKp%2BVsAL%2BAElMXq%2B7p4u5jfpgKti5WmPESEMYa3i1LNHqcdeeGJedH1duEuPViqhASRMjCBNCUW5hTcohmK%2Bo7Vxu3fPbUoowdsGE%2FzT9Rf2Qgiszg9bYZx31MHIOnwP5w2MbxueXBDWZT0PxRBJADLaJ260RuJyWJMec7V3wP9gt0R33YLLvWdehQN%2FWeHCbQBWR%2F%2FHlSqqFejbD%2F2AzPqpWKerFt97GgrBbKWNhsqNYgPp6zi%2F0UysKjNKGca6Vx3%2FH%2Fu4XaO6vL7spO55lkun5CMMMwMi73FqTSdDA4yHbF9p7S4LPs%2F%2BONEDsMSeB8dG7YgGtwZPlemmRhsivoxuqdMdcOfZGIfEEBkvGA2UnGBp%2BHjzch5UNjBUXJkHKcRCfmmq1HqMkdkn%2BqXIIwuwUPNlu%2FC%2F%2FBZPKk3UKEt2sHbJHQkOv2wC1DHFkJmtRf%2BDDSGJ%2BKKvoyVwuzPTd20bSaIvqTGcQzVWfCxPGS8t8b2zyNYSGRKvicsXltTo5nXex7NJAsIGyoYNVG7ZS9n0%2Fkf%2BGWXU5miQMMa3u7AGOrABfnb9ki6hJ0jybPWC5Br5bxIVyd%2BeoOOCT8MR1UUx4WvK7egBTWjoZYXFId03%2BPFsob%2BKEW7Xirxat9ul3w55%2FA9BP3pBvQl4YHRdxO%2BtD44a8e3vM7T2Nui5lk2dVx5SeQRzbnBj8r%2B9mhJ0F0mwQgDHc0%2BKwFGAGigGrjbKirfpoCmCMUJqx6nIwd2T6x7J3UrvfFHFVU0VfuW0O3QDSJKoOqSsomvCHM0%2F0g%2BsUrY%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240404T181753Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFIFOMTOPU%2F20240404%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=a1ac6bd41b11b6ab9a70f765ab55e8a9e6421600976af130176c8cd07ff3b48c",
+        "url": "http://www.seriouseats.com/recipes/2012/08/grilled-butterflied-chicken-recipe.html"
+    },
+    {
+        "label": "Baked Chicken",
+        "ingredients": [
+            "6 bone-in chicken breast halves, or 6 chicken thighs and wings, skin-on",
+            "1/2 teaspoon coarse salt",
+            "1/2 teaspoon Mrs. Dash seasoning",
+            "1/4 teaspoon freshly ground black pepper"
+        ],
+        "img": "https://edamam-product-images.s3.amazonaws.com/web-img/01c/01cacb70890274fb7b7cebb975a93231.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGkaCXVzLWVhc3QtMSJIMEYCIQCmlAvA%2BboNJqA5NJtJ%2F6M1KQgwkmZLgyT14kaFZZPnMwIhAIseLJ%2B9F%2BMmr%2FKISJU2WF2oMV2QRQMkPt3HqD%2BKbh5KKsEFCJL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMTg3MDE3MTUwOTg2IgyweeHIxTx7pUK3EVsqlQWX1ThzVhOUBltJkBrnsb2B87Bj8tCBBN1UH6aEzVWLFG0%2B2K%2FeS5MWlKjUTHgZ4DEcuf8aIevYPHaVajd9oChZDTCHPD%2FhXt8R60Z00qkD1RkSSZJCXzq0ZTczoN4Ki0CqQeUcXxW%2Bz5JYm%2Bbjz1DRKT2A3RxanBFwBNYz7xB8nTETZdz1%2F%2BNwqjYgUcITe0n3dLGDkFGyQdQ1j1uC0ergoAYvW9pdoBzsCtTnAtj1eixhU0AKmx5v1Ze6P56rMHPicYCH3Szr5ftfbscEFPGQ%2Bhs5kkPoUZ0rJO0MJGqAtWQ4XUBsFM8GZUDp6q%2FixGcWPGKUUm265nu7RKp%2BVsAL%2BAElMXq%2B7p4u5jfpgKti5WmPESEMYa3i1LNHqcdeeGJedH1duEuPViqhASRMjCBNCUW5hTcohmK%2Bo7Vxu3fPbUoowdsGE%2FzT9Rf2Qgiszg9bYZx31MHIOnwP5w2MbxueXBDWZT0PxRBJADLaJ260RuJyWJMec7V3wP9gt0R33YLLvWdehQN%2FWeHCbQBWR%2F%2FHlSqqFejbD%2F2AzPqpWKerFt97GgrBbKWNhsqNYgPp6zi%2F0UysKjNKGca6Vx3%2FH%2Fu4XaO6vL7spO55lkun5CMMMwMi73FqTSdDA4yHbF9p7S4LPs%2F%2BONEDsMSeB8dG7YgGtwZPlemmRhsivoxuqdMdcOfZGIfEEBkvGA2UnGBp%2BHjzch5UNjBUXJkHKcRCfmmq1HqMkdkn%2BqXIIwuwUPNlu%2FC%2F%2FBZPKk3UKEt2sHbJHQkOv2wC1DHFkJmtRf%2BDDSGJ%2BKKvoyVwuzPTd20bSaIvqTGcQzVWfCxPGS8t8b2zyNYSGRKvicsXltTo5nXex7NJAsIGyoYNVG7ZS9n0%2Fkf%2BGWXU5miQMMa3u7AGOrABfnb9ki6hJ0jybPWC5Br5bxIVyd%2BeoOOCT8MR1UUx4WvK7egBTWjoZYXFId03%2BPFsob%2BKEW7Xirxat9ul3w55%2FA9BP3pBvQl4YHRdxO%2BtD44a8e3vM7T2Nui5lk2dVx5SeQRzbnBj8r%2B9mhJ0F0mwQgDHc0%2BKwFGAGigGrjbKirfpoCmCMUJqx6nIwd2T6x7J3UrvfFHFVU0VfuW0O3QDSJKoOqSsomvCHM0%2F0g%2BsUrY%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240404T181753Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFIFOMTOPU%2F20240404%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=73a3a0b21cf314b0ec0685baf4274c4779d1e4b19ad512acf52e64db452e92f3",
+        "url": "http://www.marthastewart.com/318981/baked-chicken"
+    }
+]
