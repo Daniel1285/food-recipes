@@ -66,6 +66,7 @@ class Ui_MainWindow(object):
 "}\n"
 "\n"
 "#toolBox QPushButton {\n"
+"	color: #fff;\n"
 "	padding: 5px 0px 5px 20px;\n"
 "	text-align: left;\n"
 "    border-radius: 3px;\n"
@@ -78,13 +79,13 @@ class Ui_MainWindow(object):
 "#toolBox QPushButton:checked {\n"
 "	background-color: #4398d8;\n"
 "}")
-        self.page = QWidget()
-        self.page.setObjectName(u"page")
-        self.page.setGeometry(QRect(0, 0, 238, 619))
-        self.page.setMinimumSize(QSize(0, 0))
-        self.verticalLayout = QVBoxLayout(self.page)
+        self.general_page = QWidget()
+        self.general_page.setObjectName(u"general_page")
+        self.general_page.setGeometry(QRect(0, 0, 238, 619))
+        self.general_page.setMinimumSize(QSize(0, 0))
+        self.verticalLayout = QVBoxLayout(self.general_page)
         self.verticalLayout.setObjectName(u"verticalLayout")
-        self.homeButton = QPushButton(self.page)
+        self.homeButton = QPushButton(self.general_page)
         self.homeButton.setObjectName(u"homeButton")
         self.homeButton.setMinimumSize(QSize(0, 0))
         self.homeButton.setMaximumSize(QSize(12121212, 16777215))
@@ -93,33 +94,31 @@ class Ui_MainWindow(object):
 
         self.verticalLayout.addWidget(self.homeButton)
 
-        self.pushButton_2 = QPushButton(self.page)
-        self.pushButton_2.setObjectName(u"pushButton_2")
-        self.pushButton_2.setMinimumSize(QSize(0, 0))
-        self.pushButton_2.setMaximumSize(QSize(12121121, 16777215))
-        self.pushButton_2.setFocusPolicy(Qt.NoFocus)
+        self.verticalSpacer_general = QSpacerItem(20, 494, QSizePolicy.Policy.Minimum, QSizePolicy.Policy.Expanding)
 
-        self.verticalLayout.addWidget(self.pushButton_2)
-
-        self.verticalSpacer = QSpacerItem(20, 494, QSizePolicy.Policy.Minimum, QSizePolicy.Policy.Expanding)
-
-        self.verticalLayout.addItem(self.verticalSpacer)
+        self.verticalLayout.addItem(self.verticalSpacer_general)
 
         icon = QIcon()
         icon.addFile(u":/icons/icons/home.svg", QSize(), QIcon.Normal, QIcon.Off)
-        self.toolBox.addItem(self.page, icon, u"General")
-        self.page_2 = QWidget()
-        self.page_2.setObjectName(u"page_2")
-        self.page_2.setGeometry(QRect(0, 0, 238, 619))
+        self.toolBox.addItem(self.general_page, icon, u"General")
+        self.recipes_page = QWidget()
+        self.recipes_page.setObjectName(u"recipes_page")
+        self.recipes_page.setGeometry(QRect(0, 0, 238, 619))
+        self.verticalLayout_2 = QVBoxLayout(self.recipes_page)
+        self.verticalLayout_2.setObjectName(u"verticalLayout_2")
+        self.verticalSpacer_recipes = QSpacerItem(20, 598, QSizePolicy.Policy.Minimum, QSizePolicy.Policy.Expanding)
+
+        self.verticalLayout_2.addItem(self.verticalSpacer_recipes)
+
         icon1 = QIcon()
         icon1.addFile(u":/icons/icons/book-open.svg", QSize(), QIcon.Normal, QIcon.Off)
-        self.toolBox.addItem(self.page_2, icon1, u"Recipes")
-        self.page_3 = QWidget()
-        self.page_3.setObjectName(u"page_3")
-        self.page_3.setGeometry(QRect(0, 0, 238, 619))
+        self.toolBox.addItem(self.recipes_page, icon1, u"Recipes")
+        self.about_page = QWidget()
+        self.about_page.setObjectName(u"about_page")
+        self.about_page.setGeometry(QRect(0, 0, 238, 619))
         icon2 = QIcon()
         icon2.addFile(u":/icons/icons/info.svg", QSize(), QIcon.Normal, QIcon.Off)
-        self.toolBox.addItem(self.page_3, icon2, u"About")
+        self.toolBox.addItem(self.about_page, icon2, u"About")
 
         self.gridLayout.addWidget(self.toolBox, 0, 0, 1, 1)
 
@@ -187,14 +186,14 @@ class Ui_MainWindow(object):
 
         self.horizontalLayout.addWidget(self.lineEdit)
 
-        self.pushButton_4 = QPushButton(self.search_frame)
-        self.pushButton_4.setObjectName(u"pushButton_4")
-        self.pushButton_4.setMinimumSize(QSize(50, 0))
+        self.search_btn = QPushButton(self.search_frame)
+        self.search_btn.setObjectName(u"search_btn")
+        self.search_btn.setMinimumSize(QSize(50, 0))
         icon4 = QIcon()
         icon4.addFile(u":/icons/icons/search.svg", QSize(), QIcon.Normal, QIcon.Off)
-        self.pushButton_4.setIcon(icon4)
+        self.search_btn.setIcon(icon4)
 
-        self.horizontalLayout.addWidget(self.pushButton_4)
+        self.horizontalLayout.addWidget(self.search_btn)
 
 
         self.horizontalLayout_2.addWidget(self.search_frame)
@@ -238,12 +237,6 @@ class Ui_MainWindow(object):
 "}\n"
 "")
         self.tabWidget.setTabsClosable(True)
-        self.tab_2 = QWidget()
-        self.tab_2.setObjectName(u"tab_2")
-        self.tabWidget.addTab(self.tab_2, "")
-        self.tab = QWidget()
-        self.tab.setObjectName(u"tab")
-        self.tabWidget.addTab(self.tab, "")
 
         self.gridLayout_2.addWidget(self.tabWidget, 1, 0, 1, 1)
 
@@ -256,8 +249,8 @@ class Ui_MainWindow(object):
         self.retranslateUi(MainWindow)
         self.pushButton_3.toggled.connect(self.menue_widget.setHidden)
 
-        self.toolBox.setCurrentIndex(2)
-        self.tabWidget.setCurrentIndex(1)
+        self.toolBox.setCurrentIndex(0)
+        self.tabWidget.setCurrentIndex(-1)
 
 
         QMetaObject.connectSlotsByName(MainWindow)
@@ -266,15 +259,12 @@ class Ui_MainWindow(object):
     def retranslateUi(self, MainWindow):
         MainWindow.setWindowTitle(QCoreApplication.translate("MainWindow", u"MainWindow", None))
         self.homeButton.setText(QCoreApplication.translate("MainWindow", u"Home", None))
-        self.pushButton_2.setText(QCoreApplication.translate("MainWindow", u"PushButton", None))
-        self.toolBox.setItemText(self.toolBox.indexOf(self.page), QCoreApplication.translate("MainWindow", u"General", None))
-        self.toolBox.setItemText(self.toolBox.indexOf(self.page_2), QCoreApplication.translate("MainWindow", u"Recipes", None))
-        self.toolBox.setItemText(self.toolBox.indexOf(self.page_3), QCoreApplication.translate("MainWindow", u"About", None))
+        self.toolBox.setItemText(self.toolBox.indexOf(self.general_page), QCoreApplication.translate("MainWindow", u"General", None))
+        self.toolBox.setItemText(self.toolBox.indexOf(self.recipes_page), QCoreApplication.translate("MainWindow", u"Recipes", None))
+        self.toolBox.setItemText(self.toolBox.indexOf(self.about_page), QCoreApplication.translate("MainWindow", u"About", None))
         self.pushButton_3.setText("")
         self.lineEdit.setPlaceholderText(QCoreApplication.translate("MainWindow", u"Search recipe...", None))
-        self.pushButton_4.setText("")
+        self.search_btn.setText("")
         self.user_label.setText("")
-        self.tabWidget.setTabText(self.tabWidget.indexOf(self.tab_2), QCoreApplication.translate("MainWindow", u"Tab 2", None))
-        self.tabWidget.setTabText(self.tabWidget.indexOf(self.tab), QCoreApplication.translate("MainWindow", u"Tab 1", None))
     # retranslateUi
 

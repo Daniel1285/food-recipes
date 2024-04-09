@@ -1,4 +1,4 @@
-from PySide6.QtWidgets import QWidget
+from PySide6.QtWidgets import QWidget, QVBoxLayout, QScrollArea
 from ui.pages.home_ui import Ui_Form
 
 class Home(QWidget):
@@ -6,3 +6,5 @@ class Home(QWidget):
         super(Home, self).__init__()
         self.ui = Ui_Form()
         self.ui.setupUi(self)
+
+

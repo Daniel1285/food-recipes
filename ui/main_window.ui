@@ -94,6 +94,7 @@ border: none</string>
 }
 
 #toolBox QPushButton {
+	color: #fff;
 	padding: 5px 0px 5px 20px;
 	text-align: left;
     border-radius: 3px;
@@ -108,9 +109,9 @@ border: none</string>
 }</string>
           </property>
           <property name="currentIndex">
-           <number>2</number>
+           <number>0</number>
           </property>
-          <widget class="QWidget" name="page">
+          <widget class="QWidget" name="general_page">
            <property name="geometry">
             <rect>
              <x>0</x>
@@ -159,29 +160,7 @@ border: none</string>
              </widget>
             </item>
             <item>
-             <widget class="QPushButton" name="pushButton_2">
-              <property name="minimumSize">
-               <size>
-                <width>0</width>
-                <height>0</height>
-               </size>
-              </property>
-              <property name="maximumSize">
-               <size>
-                <width>12121121</width>
-                <height>16777215</height>
-               </size>
-              </property>
-              <property name="focusPolicy">
-               <enum>Qt::NoFocus</enum>
-              </property>
-              <property name="text">
-               <string>PushButton</string>
-              </property>
-             </widget>
-            </item>
-            <item>
-             <spacer name="verticalSpacer">
+             <spacer name="verticalSpacer_general">
               <property name="orientation">
                <enum>Qt::Vertical</enum>
               </property>
@@ -195,7 +174,7 @@ border: none</string>
             </item>
            </layout>
           </widget>
-          <widget class="QWidget" name="page_2">
+          <widget class="QWidget" name="recipes_page">
            <property name="geometry">
             <rect>
              <x>0</x>
@@ -211,8 +190,23 @@ border: none</string>
            <attribute name="label">
             <string>Recipes</string>
            </attribute>
+           <layout class="QVBoxLayout" name="verticalLayout_2">
+            <item>
+             <spacer name="verticalSpacer_recipes">
+              <property name="orientation">
+               <enum>Qt::Vertical</enum>
+              </property>
+              <property name="sizeHint" stdset="0">
+               <size>
+                <width>20</width>
+                <height>598</height>
+               </size>
+              </property>
+             </spacer>
+            </item>
+           </layout>
           </widget>
-          <widget class="QWidget" name="page_3">
+          <widget class="QWidget" name="about_page">
            <property name="geometry">
             <rect>
              <x>0</x>
@@ -370,7 +364,7 @@ border: none;</string>
                </widget>
               </item>
               <item>
-               <widget class="QPushButton" name="pushButton_4">
+               <widget class="QPushButton" name="search_btn">
                 <property name="minimumSize">
                  <size>
                   <width>50</width>
@@ -457,21 +451,11 @@ QTabBar::close-button:hover {
 </string>
           </property>
           <property name="currentIndex">
-           <number>1</number>
+           <number>-1</number>
           </property>
           <property name="tabsClosable">
            <bool>true</bool>
           </property>
-          <widget class="QWidget" name="tab_2">
-           <attribute name="title">
-            <string>Tab 2</string>
-           </attribute>
-          </widget>
-          <widget class="QWidget" name="tab">
-           <attribute name="title">
-            <string>Tab 1</string>
-           </attribute>
-          </widget>
          </widget>
         </item>
        </layout>

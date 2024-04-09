@@ -1,0 +1,8 @@
+        recipe_data = [
+            {"name": "Recipe 1", "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHNDOnkdq4D5GW_-zOMscSD1Nz5MJbltbtxIB2SdwVyQ&s", "link": "https://www.seriouseats.com/basic-rotisserie-chicken-recipe"},
+            {"name": "Recipe 2", "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHNDOnkdq4D5GW_-zOMscSD1Nz5MJbltbtxIB2SdwVyQ&s", "link": "https://www.seriouseats.com/basic-rotisserie-chicken-recipe"},
+            {"name": "Recipe 3", "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHNDOnkdq4D5GW_-zOMscSD1Nz5MJbltbtxIB2SdwVyQ&s", "link": "https://www.seriouseats.com/basic-rotisserie-chicken-recipe"},
+            {"name": "Recipe 3", "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHNDOnkdq4D5GW_-zOMscSD1Nz5MJbltbtxIB2SdwVyQ&s", "link": "https://www.seriouseats.com/basic-rotisserie-chicken-recipe"},
+            {"name": "Recipe 3", "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHNDOnkdq4D5GW_-zOMscSD1Nz5MJbltbtxIB2SdwVyQ&s", "link": "https://www.seriouseats.com/basic-rotisserie-chicken-recipe"},
+            {"name": "Recipe 3", "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHNDOnkdq4D5GW_-zOMscSD1Nz5MJbltbtxIB2SdwVyQ&s", "link": "https://www.seriouseats.com/basic-rotisserie-chicken-recipe"},
+        ]

@@ -55,8 +55,10 @@ def Get_recipe(query):
 #================================================================c
 
 def main():
+    #user = input("enter recipe: ")
+    #Get_recipe(user)
     data = load_data("recipes.json")
-    label = [recipe['label'] for recipe in data]
+    label = [recipe['name'] for recipe in data]
 
     print(label)
 
