@@ -25,7 +25,6 @@ def Get_recipe(query):
     if response.status_code == 200:
         # Parse the JSON response
         data = response.json()
-        print(data)
         # Create a list to store recipe details
         recipes = []
 
@@ -55,8 +54,8 @@ def Get_recipe(query):
 #================================================================c
 
 def main():
-    #user = input("enter recipe: ")
-    #Get_recipe(user)
+    user = input("enter recipe: ")
+    Get_recipe(user)
     data = load_data("recipes.json")
     label = [recipe['name'] for recipe in data]
 

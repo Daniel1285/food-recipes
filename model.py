@@ -5,6 +5,10 @@ class Cookbook:
     #     self.options = options if options is not None else []
     pass
 
+
+    def GetCookbook(self, name):
+        pass
+
     
 class Recipe: 
     def __init__(self, id, name, ingredients, imageUrl, url):

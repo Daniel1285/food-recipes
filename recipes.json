@@ -1,150 +1,223 @@
 [
     {
-        "name": "Chocolate Cake",
+        "name": "Butternut Squash Pie-Cake",
         "ingredients": [
-            "1 recipe Chocolate Cake Mix",
-            "1/2 cup coffee or water",
-            "1/2 cup almond or soy milk (vanilla flavor preferred)",
-            "1/2 cup canola oil",
-            "1/2 cup pure maple syrup",
-            "2 tablespoons apple cider vinegar"
+            "For the pie-cake:",
+            "2 cups (9 ounces) all-purpose flour",
+            "1 cup (7 ounces) sugar",
+            "1 teaspoon baking powder",
+            "1/2 teaspoon kosher salt",
+            "2 sticks chilled unsalted butter, cut into 1/2-inch cubes",
+            "1 large egg, lightly beaten",
+            "For the roasted squash filling:",
+            "2 pounds peeled and cubed butternut squash (1/4- to 1/2-inch cubes)",
+            "2 tablespoons brown sugar, divided",
+            "Zest and juice of 1/2 orange",
+            "1 tablespoon honey",
+            "1 tablespoon olive oil",
+            "1 teaspoon cardamom",
+            "1/3 cup chopped toasted hazelnuts"
         ],
-        "imageUrl": "https://edamam-product-images.s3.amazonaws.com/web-img/d8a/d8a01a1fc7a5e5f631fda5064eb60921.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQD4k4bJrvl5rKwDx8HTSmHf4CY%2F8St0R8NvFSMhrWrVXQIhAJVgMN6d1DrVwhHhkJBKQkPiz2gWiB7AfdoKkp93DdxeKsIFCOj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMTg3MDE3MTUwOTg2IgzdiUsBCLbwfBTRN2kqlgX2qQoNvCAOp0rDgBtUuNkWIquGeQO6q4Cw3PpHg2x%2B4MTx9QX1HgqE6u3eKJOQfY%2BP3QZbzPBy7XVv5CznS8lfEMfaErNFNIVfACH5rHnWVtT%2BvLbCGxY1%2BL6YNLs1uIt6aY6lw%2BHOK9d92GnxPsNvZfG%2Fvt72t%2FoF2FJucVM4F4xhqaqYyAkBZQSQzEBGF%2BUnmunzgxq%2F9aH%2BtAaGE%2BGOjSMaJyFy8Ys9KJloeZCHb1PbDxgMj64HI0sOE%2FW6uZrxKilnlfiAdVF2l3ZtGpIiR3tUQC3RlU3fHxTE2AN7YY9ULsC9SOR51a48T7%2BKLMpkOGRYR4QEkgMfVnt3ETzs%2ButqFKF2ERz1NpmydEyqvgIibpfQTCi7s%2BSmWB61gtv95EIY1LxbNz2ZVd1fWPMQjs691TQneCFSt35h4%2Fz%2BK%2BWSz0glNw6kj%2B3Qgq9vD7BcmgFTSm8xCOFvELs7i%2Bm35sPCNRp%2F1rAd9NRjBnXY28Py1yKB8ei9c0lOaSczIseBMVC87c4KHuz5A%2BGCWA0y65XNsNgFnXhkoQUdIJ8wU1YI9IVSsZxLfp14w%2Fa2O6xOX2Cbq5JnNY7rvM7%2FUpgIFulGBOGDLcblomzxtsxOkdu%2B%2F5Fw8idB3O43ltKNjmVJvSVmP6glZO0P40UpyrJirTA6O2OgIAebgavk4knKPLW37N91GJD9%2Bxi2OyfYLK1NXavTNbQzsKO3FLEeOsIqtwCaHW1PmL88YHBglDfvGv5ZQFcCrgA4A4HkPknYAc53%2BKrjgixhuSO%2B7WshggmcPZ8PmGnaBQN7F84c55eLb1Y%2Bh%2BWp9mZZT4X64HTIzZaLkrs%2Bg9kNmz2pgBJA2WB65LCKCG3maFsPmHFumFYmFuwGG6dI9jDTtc6wBjqwAVCpauZWNcCLK5MnM9wUT5gXOVD6rWUDjxT5EukphBkgEcvCT65xPLjqAIuK2%2BKd0ulJtwNieWNudQIM9NAnXSpwUF%2BvUdulGfI9WC%2FLI38KzDTqxvWEDhsM9w7f1rqY9CrbacbCG1YZ63dIxzbhaM5JKROUuPJmpF3hWKHrYO8WzSLzxUgTXv1Jd3lkXS36F6UgmpwwjNWC0odwSj6A1Vdod89eZhIT8sfn9MVlSK4y&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240408T081813Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFJHCYRR4D%2F20240408%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=0bc0463ad4e29aac9a65e12694c34c5862f2c4570a82c026d178bc0cc06ebf93",
-        "url": "http://www.cookstr.com/recipes/chocolate-cake-nicole-axworthy"
+        "imageUrl": "https://edamam-product-images.s3.amazonaws.com/web-img/bca/bcaea116fc753f23fb88fa52ea313373.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCICfPP29XAlnYS%2Bm%2Fe8BQ8obr9mevnbf4TjT%2FY2ZhCtwQAiAaKtZBkcTJAhIp1MnV0S7c0BdyXT9BmLMkK%2FO3M0VPYyrCBQjx%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDE4NzAxNzE1MDk4NiIMkUIS7832s13NWGkZKpYF3kIjqC4rZVBDq9iMLOBu%2F%2BFoQN4GbzIDAEeS4kHY4Hb9%2BA3YKh9wq90eIr0J%2BgpK7r6AeebKbHauRIOG%2FIoL%2FQfyc%2Bn2EcmyeyroggilLdcz12VjM%2ByYyJvt%2BXkBbzTNuz82Tmz7wxXMYkN21p%2FLzTyJAdmiMX7f%2FE%2BvXZm8oufCl7IQWqkG9hTact9iMCNX96CLki3ugSTzrsfkiMG0XkUCzBMQ9N6NiD1uKsa%2BrX2qI5kyhh%2BYaPEfLE66xwWDv4EedNI6aU5hs%2FjE2NE11XZuhHmmrkfU4hdyGv%2BIqotn6w55Kvoat6iHjTQprbHilu5kGWyfh%2FLWT9lCrhZI1u0WKYT7iiFKsPA0vUyH3zF6Bc29jZihTkrNyhTGbiGhmjtrSut9EXlE4yhNhmPiyd7mV5udJmiuKu7kqjt8qxwZFJM4DoxXTHfx%2BxU%2BXH0n4UkR3VqLgpw4G9SKzmLfeYI0F3xAP69mUxU%2FV%2B5pGObIWqCGWk%2ByRCVtoax%2BCi%2ByaC69%2BRG111n6jf5PwYt0zC9mFpa5FNiMCUoM9h91nKT8uOJFYvyeEOZbP5VNqtkbhZGCBWLz89%2FH7Yc3wkZRryeJ2cECu6mcUYYrvGM9TGn6hbFnabgkYVMQxfJOo4OSlfEhCkC1ZUGvVu2SHMRtgoX%2F6HTXV5Z0RcRkgErYglIPsq0BovkzRIZajSKLxX83WN6UwY5YA%2FkvFlEJB4d9sLk780SluTF5dwBMjJkPOfG3L5Y3C798mP0QXImcWSRALaxuYg0fMayAs8GmfqBQ01AA9670i94FzL5xYsGKw%2BYw3josjkY1qwxcsqWucxOE1pPLzSinQxgq24n%2FjqcI23l4tLV6AlZ8j%2BuxK7XXjovxFZ1Ze9gwlYeFsQY6sgGfh7iAqQQ8dlcEZ8KIg5%2F203o2sGcZr46mgeGBm4PhBgQUMAh0hsEaL6KiRrSJGvxB7XycRxIONxG7QI7J6Od5y6hpGdvEurk1NIVBnZZgaNQ9FL5pkrmDgWztHhgmQK8oPP%2BwSD7LCqFueSkyUOzt9uREKTndfP9xxShovuZnw1ws5v32DOk2wGJRDWMglxKflnIhTddz3lknP%2FF%2FifO9VBN3BOAaBee7eLeCX3242H8F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240418T174907Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFFJRDSFEH%2F20240418%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=5e5ae855c5906cb892eee1c6c14b30110a96ce34b52ac7925a9bdff2ef436d51",
+        "url": "https://food52.com/recipes/38760-butternut-squash-pie-cake"
     },
     {
-        "name": "German Chocolate Cake Donuts",
+        "name": "Apple Blueberry Pie Cake Recipe",
         "ingredients": [
-            "one 12-ounce can evaporated milk",
-            "3/4 cup unsalted butter",
-            "3/4 cup granulated sugar",
-            "1/2 cup light brown sugar",
-            "5 large egg yolks",
-            "2 cups toasted chopped pecans",
-            "2 cups shredded coconut (sweetened or unsweetened, whichever you prefer)",
+            "2 cups (10 ounces) all purpose flour",
+            "1 cup (7 ounces) packed light brown sugar",
+            "Pinch salt",
+            "2 teaspoons ground cinnamon, divided",
+            "16 tablespoons (8 ounces) cold unsalted butter, cubed",
+            "2 tablespoons granulated sugar",
+            "1 teaspoon cornstarch",
+            "4 pounds Granny Smith apples (about 14 small), peeled, cored, sliced into 1/8-inch slices",
+            "1 cup blueberries",
+            "2 tablespoons juice from one lemon"
+        ],
+        "imageUrl": "https://edamam-product-images.s3.amazonaws.com/web-img/787/787177c81d91061f885d9e87a4aef4a1.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCICfPP29XAlnYS%2Bm%2Fe8BQ8obr9mevnbf4TjT%2FY2ZhCtwQAiAaKtZBkcTJAhIp1MnV0S7c0BdyXT9BmLMkK%2FO3M0VPYyrCBQjx%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDE4NzAxNzE1MDk4NiIMkUIS7832s13NWGkZKpYF3kIjqC4rZVBDq9iMLOBu%2F%2BFoQN4GbzIDAEeS4kHY4Hb9%2BA3YKh9wq90eIr0J%2BgpK7r6AeebKbHauRIOG%2FIoL%2FQfyc%2Bn2EcmyeyroggilLdcz12VjM%2ByYyJvt%2BXkBbzTNuz82Tmz7wxXMYkN21p%2FLzTyJAdmiMX7f%2FE%2BvXZm8oufCl7IQWqkG9hTact9iMCNX96CLki3ugSTzrsfkiMG0XkUCzBMQ9N6NiD1uKsa%2BrX2qI5kyhh%2BYaPEfLE66xwWDv4EedNI6aU5hs%2FjE2NE11XZuhHmmrkfU4hdyGv%2BIqotn6w55Kvoat6iHjTQprbHilu5kGWyfh%2FLWT9lCrhZI1u0WKYT7iiFKsPA0vUyH3zF6Bc29jZihTkrNyhTGbiGhmjtrSut9EXlE4yhNhmPiyd7mV5udJmiuKu7kqjt8qxwZFJM4DoxXTHfx%2BxU%2BXH0n4UkR3VqLgpw4G9SKzmLfeYI0F3xAP69mUxU%2FV%2B5pGObIWqCGWk%2ByRCVtoax%2BCi%2ByaC69%2BRG111n6jf5PwYt0zC9mFpa5FNiMCUoM9h91nKT8uOJFYvyeEOZbP5VNqtkbhZGCBWLz89%2FH7Yc3wkZRryeJ2cECu6mcUYYrvGM9TGn6hbFnabgkYVMQxfJOo4OSlfEhCkC1ZUGvVu2SHMRtgoX%2F6HTXV5Z0RcRkgErYglIPsq0BovkzRIZajSKLxX83WN6UwY5YA%2FkvFlEJB4d9sLk780SluTF5dwBMjJkPOfG3L5Y3C798mP0QXImcWSRALaxuYg0fMayAs8GmfqBQ01AA9670i94FzL5xYsGKw%2BYw3josjkY1qwxcsqWucxOE1pPLzSinQxgq24n%2FjqcI23l4tLV6AlZ8j%2BuxK7XXjovxFZ1Ze9gwlYeFsQY6sgGfh7iAqQQ8dlcEZ8KIg5%2F203o2sGcZr46mgeGBm4PhBgQUMAh0hsEaL6KiRrSJGvxB7XycRxIONxG7QI7J6Od5y6hpGdvEurk1NIVBnZZgaNQ9FL5pkrmDgWztHhgmQK8oPP%2BwSD7LCqFueSkyUOzt9uREKTndfP9xxShovuZnw1ws5v32DOk2wGJRDWMglxKflnIhTddz3lknP%2FF%2FifO9VBN3BOAaBee7eLeCX3242H8F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240418T174907Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFFJRDSFEH%2F20240418%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=6c9a791389617280466b81ed0382f291a48f9bf29e2fcba4ed3fe78e364757fe",
+        "url": "https://www.seriouseats.com/deep-dish-apple-blueberry-pie-cake-recipe"
+    },
+    {
+        "name": "Sticky pecan pie cake",
+        "ingredients": [
+            "220g unsalted butter",
+            "200g light muscovado sugar",
+            "100g golden syrup",
+            "100g maple syrup",
+            "½ tsp vanilla paste",
+            "2 eggs, lightly beaten",
+            "300ml milk",
+            "70g pecans, chopped",
+            "1 tsp ground cinnamon, plus extra to serve",
+            "350g self-raising flour",
+            "½ tsp bicarbonate of soda",
+            "½ tsp salt"
+        ],
+        "imageUrl": "https://edamam-product-images.s3.amazonaws.com/web-img/c29/c293cfb125da0f746dd1cef62f11a411.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCICfPP29XAlnYS%2Bm%2Fe8BQ8obr9mevnbf4TjT%2FY2ZhCtwQAiAaKtZBkcTJAhIp1MnV0S7c0BdyXT9BmLMkK%2FO3M0VPYyrCBQjx%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDE4NzAxNzE1MDk4NiIMkUIS7832s13NWGkZKpYF3kIjqC4rZVBDq9iMLOBu%2F%2BFoQN4GbzIDAEeS4kHY4Hb9%2BA3YKh9wq90eIr0J%2BgpK7r6AeebKbHauRIOG%2FIoL%2FQfyc%2Bn2EcmyeyroggilLdcz12VjM%2ByYyJvt%2BXkBbzTNuz82Tmz7wxXMYkN21p%2FLzTyJAdmiMX7f%2FE%2BvXZm8oufCl7IQWqkG9hTact9iMCNX96CLki3ugSTzrsfkiMG0XkUCzBMQ9N6NiD1uKsa%2BrX2qI5kyhh%2BYaPEfLE66xwWDv4EedNI6aU5hs%2FjE2NE11XZuhHmmrkfU4hdyGv%2BIqotn6w55Kvoat6iHjTQprbHilu5kGWyfh%2FLWT9lCrhZI1u0WKYT7iiFKsPA0vUyH3zF6Bc29jZihTkrNyhTGbiGhmjtrSut9EXlE4yhNhmPiyd7mV5udJmiuKu7kqjt8qxwZFJM4DoxXTHfx%2BxU%2BXH0n4UkR3VqLgpw4G9SKzmLfeYI0F3xAP69mUxU%2FV%2B5pGObIWqCGWk%2ByRCVtoax%2BCi%2ByaC69%2BRG111n6jf5PwYt0zC9mFpa5FNiMCUoM9h91nKT8uOJFYvyeEOZbP5VNqtkbhZGCBWLz89%2FH7Yc3wkZRryeJ2cECu6mcUYYrvGM9TGn6hbFnabgkYVMQxfJOo4OSlfEhCkC1ZUGvVu2SHMRtgoX%2F6HTXV5Z0RcRkgErYglIPsq0BovkzRIZajSKLxX83WN6UwY5YA%2FkvFlEJB4d9sLk780SluTF5dwBMjJkPOfG3L5Y3C798mP0QXImcWSRALaxuYg0fMayAs8GmfqBQ01AA9670i94FzL5xYsGKw%2BYw3josjkY1qwxcsqWucxOE1pPLzSinQxgq24n%2FjqcI23l4tLV6AlZ8j%2BuxK7XXjovxFZ1Ze9gwlYeFsQY6sgGfh7iAqQQ8dlcEZ8KIg5%2F203o2sGcZr46mgeGBm4PhBgQUMAh0hsEaL6KiRrSJGvxB7XycRxIONxG7QI7J6Od5y6hpGdvEurk1NIVBnZZgaNQ9FL5pkrmDgWztHhgmQK8oPP%2BwSD7LCqFueSkyUOzt9uREKTndfP9xxShovuZnw1ws5v32DOk2wGJRDWMglxKflnIhTddz3lknP%2FF%2FifO9VBN3BOAaBee7eLeCX3242H8F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240418T174907Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFFJRDSFEH%2F20240418%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3baa1907f86908668ff53dcf46f2a7aa176a928630a928464d0c28c3d679957c",
+        "url": "https://www.bbcgoodfood.com/premium/sticky-pecan-pie-cake"
+    },
+    {
+        "name": "Cinnamon Apple Pie Cake",
+        "ingredients": [
+            "1 1/4 cups (2 1/2 sticks) unsalted butter, softened, plus more for pan",
+            "1 1/2 cups packed light-brown sugar",
+            "3 tablespoons Calvados apple brandy",
+            "Salt",
+            "3 whole cinnamon sticks",
+            "6 medium Braeburn or McIntosh apples (about 2 1/2 pounds), peeled, cored, and cut into 1/4-inch-thick rings",
+            "2 1/4 cups all-purpose flour",
+            "1/2 teaspoon baking soda",
+            "1/2 teaspoon baking powder",
+            "3/4 teaspoon ground cinnamon",
+            "1 1/2 cups granulated sugar",
+            "3 large eggs",
+            "1 1/2 teaspoons pure vanilla extract",
+            "1/2 cup sour cream"
+        ],
+        "imageUrl": "https://edamam-product-images.s3.amazonaws.com/web-img/ef4/ef42949f1527d76741afdcdd4ddd8750?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCICfPP29XAlnYS%2Bm%2Fe8BQ8obr9mevnbf4TjT%2FY2ZhCtwQAiAaKtZBkcTJAhIp1MnV0S7c0BdyXT9BmLMkK%2FO3M0VPYyrCBQjx%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDE4NzAxNzE1MDk4NiIMkUIS7832s13NWGkZKpYF3kIjqC4rZVBDq9iMLOBu%2F%2BFoQN4GbzIDAEeS4kHY4Hb9%2BA3YKh9wq90eIr0J%2BgpK7r6AeebKbHauRIOG%2FIoL%2FQfyc%2Bn2EcmyeyroggilLdcz12VjM%2ByYyJvt%2BXkBbzTNuz82Tmz7wxXMYkN21p%2FLzTyJAdmiMX7f%2FE%2BvXZm8oufCl7IQWqkG9hTact9iMCNX96CLki3ugSTzrsfkiMG0XkUCzBMQ9N6NiD1uKsa%2BrX2qI5kyhh%2BYaPEfLE66xwWDv4EedNI6aU5hs%2FjE2NE11XZuhHmmrkfU4hdyGv%2BIqotn6w55Kvoat6iHjTQprbHilu5kGWyfh%2FLWT9lCrhZI1u0WKYT7iiFKsPA0vUyH3zF6Bc29jZihTkrNyhTGbiGhmjtrSut9EXlE4yhNhmPiyd7mV5udJmiuKu7kqjt8qxwZFJM4DoxXTHfx%2BxU%2BXH0n4UkR3VqLgpw4G9SKzmLfeYI0F3xAP69mUxU%2FV%2B5pGObIWqCGWk%2ByRCVtoax%2BCi%2ByaC69%2BRG111n6jf5PwYt0zC9mFpa5FNiMCUoM9h91nKT8uOJFYvyeEOZbP5VNqtkbhZGCBWLz89%2FH7Yc3wkZRryeJ2cECu6mcUYYrvGM9TGn6hbFnabgkYVMQxfJOo4OSlfEhCkC1ZUGvVu2SHMRtgoX%2F6HTXV5Z0RcRkgErYglIPsq0BovkzRIZajSKLxX83WN6UwY5YA%2FkvFlEJB4d9sLk780SluTF5dwBMjJkPOfG3L5Y3C798mP0QXImcWSRALaxuYg0fMayAs8GmfqBQ01AA9670i94FzL5xYsGKw%2BYw3josjkY1qwxcsqWucxOE1pPLzSinQxgq24n%2FjqcI23l4tLV6AlZ8j%2BuxK7XXjovxFZ1Ze9gwlYeFsQY6sgGfh7iAqQQ8dlcEZ8KIg5%2F203o2sGcZr46mgeGBm4PhBgQUMAh0hsEaL6KiRrSJGvxB7XycRxIONxG7QI7J6Od5y6hpGdvEurk1NIVBnZZgaNQ9FL5pkrmDgWztHhgmQK8oPP%2BwSD7LCqFueSkyUOzt9uREKTndfP9xxShovuZnw1ws5v32DOk2wGJRDWMglxKflnIhTddz3lknP%2FF%2FifO9VBN3BOAaBee7eLeCX3242H8F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240418T174907Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFFJRDSFEH%2F20240418%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=fa243195ec66740f37c26fc2bdacbf355cc1f08ce79d22586d8e4ed25ce1b491",
+        "url": "https://www.marthastewart.com/355524/apple-pie-cake"
+    },
+    {
+        "name": "Pumpkin Pie Cake",
+        "ingredients": [
+            "2 (15-oz.) cans unsweetened pumpkin purée",
+            "3 large eggs, at room temperature",
+            "1 c. sugar",
+            "2/3 c. evaporated milk",
+            "1/2 tbsp. pumpkin pie spice"
+        ],
+        "imageUrl": "https://edamam-product-images.s3.amazonaws.com/web-img/c27/c27e50fae5aadfffb0186db97f422d1a.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCICfPP29XAlnYS%2Bm%2Fe8BQ8obr9mevnbf4TjT%2FY2ZhCtwQAiAaKtZBkcTJAhIp1MnV0S7c0BdyXT9BmLMkK%2FO3M0VPYyrCBQjx%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDE4NzAxNzE1MDk4NiIMkUIS7832s13NWGkZKpYF3kIjqC4rZVBDq9iMLOBu%2F%2BFoQN4GbzIDAEeS4kHY4Hb9%2BA3YKh9wq90eIr0J%2BgpK7r6AeebKbHauRIOG%2FIoL%2FQfyc%2Bn2EcmyeyroggilLdcz12VjM%2ByYyJvt%2BXkBbzTNuz82Tmz7wxXMYkN21p%2FLzTyJAdmiMX7f%2FE%2BvXZm8oufCl7IQWqkG9hTact9iMCNX96CLki3ugSTzrsfkiMG0XkUCzBMQ9N6NiD1uKsa%2BrX2qI5kyhh%2BYaPEfLE66xwWDv4EedNI6aU5hs%2FjE2NE11XZuhHmmrkfU4hdyGv%2BIqotn6w55Kvoat6iHjTQprbHilu5kGWyfh%2FLWT9lCrhZI1u0WKYT7iiFKsPA0vUyH3zF6Bc29jZihTkrNyhTGbiGhmjtrSut9EXlE4yhNhmPiyd7mV5udJmiuKu7kqjt8qxwZFJM4DoxXTHfx%2BxU%2BXH0n4UkR3VqLgpw4G9SKzmLfeYI0F3xAP69mUxU%2FV%2B5pGObIWqCGWk%2ByRCVtoax%2BCi%2ByaC69%2BRG111n6jf5PwYt0zC9mFpa5FNiMCUoM9h91nKT8uOJFYvyeEOZbP5VNqtkbhZGCBWLz89%2FH7Yc3wkZRryeJ2cECu6mcUYYrvGM9TGn6hbFnabgkYVMQxfJOo4OSlfEhCkC1ZUGvVu2SHMRtgoX%2F6HTXV5Z0RcRkgErYglIPsq0BovkzRIZajSKLxX83WN6UwY5YA%2FkvFlEJB4d9sLk780SluTF5dwBMjJkPOfG3L5Y3C798mP0QXImcWSRALaxuYg0fMayAs8GmfqBQ01AA9670i94FzL5xYsGKw%2BYw3josjkY1qwxcsqWucxOE1pPLzSinQxgq24n%2FjqcI23l4tLV6AlZ8j%2BuxK7XXjovxFZ1Ze9gwlYeFsQY6sgGfh7iAqQQ8dlcEZ8KIg5%2F203o2sGcZr46mgeGBm4PhBgQUMAh0hsEaL6KiRrSJGvxB7XycRxIONxG7QI7J6Od5y6hpGdvEurk1NIVBnZZgaNQ9FL5pkrmDgWztHhgmQK8oPP%2BwSD7LCqFueSkyUOzt9uREKTndfP9xxShovuZnw1ws5v32DOk2wGJRDWMglxKflnIhTddz3lknP%2FF%2FifO9VBN3BOAaBee7eLeCX3242H8F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240418T174907Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFFJRDSFEH%2F20240418%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=7356210d5ad15b32a206b7c443988e64f9443fb0873d0b19c446fe02b647e362",
+        "url": "http://www.delish.com/cooking/recipe-ideas/recipes/a48962/pumpkin-pie-cake-recipe/"
+    },
+    {
+        "name": "Apple Pie Cake",
+        "ingredients": [
+            "2 cups white whole-wheat flour",
+            "¾ cup granulated sugar",
+            "1 teaspoon baking soda",
+            "½ teaspoon salt",
+            "1 teaspoon ground cinnamon, divided",
+            "1 cup buttermilk",
+            "2 large eggs, lightly beaten",
+            "⅓ cup canola oil",
             "1 teaspoon vanilla extract",
-            "1 recipe Chocolate Cake Doughnuts (https://food52.com/recipes...), cooled"
+            "2 cups chopped unpeeled Granny Smith apples",
+            "½ cup packed light brown sugar",
+            "1 tablespoon unsalted butter",
+            "1 tablespoon lemon juice"
         ],
-        "imageUrl": "https://edamam-product-images.s3.amazonaws.com/web-img/28b/28b2e80d40685c41f6b9470034d89414.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQD4k4bJrvl5rKwDx8HTSmHf4CY%2F8St0R8NvFSMhrWrVXQIhAJVgMN6d1DrVwhHhkJBKQkPiz2gWiB7AfdoKkp93DdxeKsIFCOj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMTg3MDE3MTUwOTg2IgzdiUsBCLbwfBTRN2kqlgX2qQoNvCAOp0rDgBtUuNkWIquGeQO6q4Cw3PpHg2x%2B4MTx9QX1HgqE6u3eKJOQfY%2BP3QZbzPBy7XVv5CznS8lfEMfaErNFNIVfACH5rHnWVtT%2BvLbCGxY1%2BL6YNLs1uIt6aY6lw%2BHOK9d92GnxPsNvZfG%2Fvt72t%2FoF2FJucVM4F4xhqaqYyAkBZQSQzEBGF%2BUnmunzgxq%2F9aH%2BtAaGE%2BGOjSMaJyFy8Ys9KJloeZCHb1PbDxgMj64HI0sOE%2FW6uZrxKilnlfiAdVF2l3ZtGpIiR3tUQC3RlU3fHxTE2AN7YY9ULsC9SOR51a48T7%2BKLMpkOGRYR4QEkgMfVnt3ETzs%2ButqFKF2ERz1NpmydEyqvgIibpfQTCi7s%2BSmWB61gtv95EIY1LxbNz2ZVd1fWPMQjs691TQneCFSt35h4%2Fz%2BK%2BWSz0glNw6kj%2B3Qgq9vD7BcmgFTSm8xCOFvELs7i%2Bm35sPCNRp%2F1rAd9NRjBnXY28Py1yKB8ei9c0lOaSczIseBMVC87c4KHuz5A%2BGCWA0y65XNsNgFnXhkoQUdIJ8wU1YI9IVSsZxLfp14w%2Fa2O6xOX2Cbq5JnNY7rvM7%2FUpgIFulGBOGDLcblomzxtsxOkdu%2B%2F5Fw8idB3O43ltKNjmVJvSVmP6glZO0P40UpyrJirTA6O2OgIAebgavk4knKPLW37N91GJD9%2Bxi2OyfYLK1NXavTNbQzsKO3FLEeOsIqtwCaHW1PmL88YHBglDfvGv5ZQFcCrgA4A4HkPknYAc53%2BKrjgixhuSO%2B7WshggmcPZ8PmGnaBQN7F84c55eLb1Y%2Bh%2BWp9mZZT4X64HTIzZaLkrs%2Bg9kNmz2pgBJA2WB65LCKCG3maFsPmHFumFYmFuwGG6dI9jDTtc6wBjqwAVCpauZWNcCLK5MnM9wUT5gXOVD6rWUDjxT5EukphBkgEcvCT65xPLjqAIuK2%2BKd0ulJtwNieWNudQIM9NAnXSpwUF%2BvUdulGfI9WC%2FLI38KzDTqxvWEDhsM9w7f1rqY9CrbacbCG1YZ63dIxzbhaM5JKROUuPJmpF3hWKHrYO8WzSLzxUgTXv1Jd3lkXS36F6UgmpwwjNWC0odwSj6A1Vdod89eZhIT8sfn9MVlSK4y&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240408T081813Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFJHCYRR4D%2F20240408%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e4014e5e1c53589518782acdbeeb60f2e128cd3b5f161619a45aa116dd23335d",
-        "url": "https://food52.com/recipes/61592-german-chocolate-cake-doughnuts"
+        "imageUrl": "https://edamam-product-images.s3.amazonaws.com/web-img/f93/f93be7a29cfc1607fb64680620cb49fe?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCICfPP29XAlnYS%2Bm%2Fe8BQ8obr9mevnbf4TjT%2FY2ZhCtwQAiAaKtZBkcTJAhIp1MnV0S7c0BdyXT9BmLMkK%2FO3M0VPYyrCBQjx%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDE4NzAxNzE1MDk4NiIMkUIS7832s13NWGkZKpYF3kIjqC4rZVBDq9iMLOBu%2F%2BFoQN4GbzIDAEeS4kHY4Hb9%2BA3YKh9wq90eIr0J%2BgpK7r6AeebKbHauRIOG%2FIoL%2FQfyc%2Bn2EcmyeyroggilLdcz12VjM%2ByYyJvt%2BXkBbzTNuz82Tmz7wxXMYkN21p%2FLzTyJAdmiMX7f%2FE%2BvXZm8oufCl7IQWqkG9hTact9iMCNX96CLki3ugSTzrsfkiMG0XkUCzBMQ9N6NiD1uKsa%2BrX2qI5kyhh%2BYaPEfLE66xwWDv4EedNI6aU5hs%2FjE2NE11XZuhHmmrkfU4hdyGv%2BIqotn6w55Kvoat6iHjTQprbHilu5kGWyfh%2FLWT9lCrhZI1u0WKYT7iiFKsPA0vUyH3zF6Bc29jZihTkrNyhTGbiGhmjtrSut9EXlE4yhNhmPiyd7mV5udJmiuKu7kqjt8qxwZFJM4DoxXTHfx%2BxU%2BXH0n4UkR3VqLgpw4G9SKzmLfeYI0F3xAP69mUxU%2FV%2B5pGObIWqCGWk%2ByRCVtoax%2BCi%2ByaC69%2BRG111n6jf5PwYt0zC9mFpa5FNiMCUoM9h91nKT8uOJFYvyeEOZbP5VNqtkbhZGCBWLz89%2FH7Yc3wkZRryeJ2cECu6mcUYYrvGM9TGn6hbFnabgkYVMQxfJOo4OSlfEhCkC1ZUGvVu2SHMRtgoX%2F6HTXV5Z0RcRkgErYglIPsq0BovkzRIZajSKLxX83WN6UwY5YA%2FkvFlEJB4d9sLk780SluTF5dwBMjJkPOfG3L5Y3C798mP0QXImcWSRALaxuYg0fMayAs8GmfqBQ01AA9670i94FzL5xYsGKw%2BYw3josjkY1qwxcsqWucxOE1pPLzSinQxgq24n%2FjqcI23l4tLV6AlZ8j%2BuxK7XXjovxFZ1Ze9gwlYeFsQY6sgGfh7iAqQQ8dlcEZ8KIg5%2F203o2sGcZr46mgeGBm4PhBgQUMAh0hsEaL6KiRrSJGvxB7XycRxIONxG7QI7J6Od5y6hpGdvEurk1NIVBnZZgaNQ9FL5pkrmDgWztHhgmQK8oPP%2BwSD7LCqFueSkyUOzt9uREKTndfP9xxShovuZnw1ws5v32DOk2wGJRDWMglxKflnIhTddz3lknP%2FF%2FifO9VBN3BOAaBee7eLeCX3242H8F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240418T174907Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFFJRDSFEH%2F20240418%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=4e6ea2bfb3ac4119dd62148314ae9ffeea0fcc7e2f55999228c51d86c357f9d5",
+        "url": "https://www.eatingwell.com/recipe/7870197/apple-pie-cake/"
     },
     {
-        "name": "Gluten-Free Tuesday: One Bowl Chocolate Cake Recipe",
+        "name": "Strawberry Pie Cake",
         "ingredients": [
-            "One Bowl Classic Chocolate Cake Dry Ingredients:",
-            "2 cups granulated sugar",
-            "1 cup white rice flour",
-            "1/2 cup cornstarch",
-            "1/4 cup sweet rice flour",
-            "1 cup unsweetened cocoa powder",
-            "1 1/2 teaspoons baking powder",
-            "1 1/2 teaspoons baking soda",
-            "1 teaspoon salt",
-            "1 teaspoon xanthan gum",
-            "One Bowl Classic Chocolate Cake Wet Ingredients:",
+            "Cooking spray, for the pan",
+            "1 18.25-ounce box vanilla cake mix, plus required ingredients",
+            "3 cups quartered fresh strawberries (about 1 pound)",
+            "1/4 cup granulated sugar",
+            "Pinch of salt",
+            "2 12-inch rolls refrigerated pie dough",
+            "All-purpose flour, for dusting",
+            "Coarse sugar, for sprinkling",
+            "Vanilla ice cream or whipped cream, for serving"
+        ],
+        "imageUrl": "https://edamam-product-images.s3.amazonaws.com/web-img/01d/01d548d96e789a2ac5970fa6ca885d53.jpeg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCICfPP29XAlnYS%2Bm%2Fe8BQ8obr9mevnbf4TjT%2FY2ZhCtwQAiAaKtZBkcTJAhIp1MnV0S7c0BdyXT9BmLMkK%2FO3M0VPYyrCBQjx%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDE4NzAxNzE1MDk4NiIMkUIS7832s13NWGkZKpYF3kIjqC4rZVBDq9iMLOBu%2F%2BFoQN4GbzIDAEeS4kHY4Hb9%2BA3YKh9wq90eIr0J%2BgpK7r6AeebKbHauRIOG%2FIoL%2FQfyc%2Bn2EcmyeyroggilLdcz12VjM%2ByYyJvt%2BXkBbzTNuz82Tmz7wxXMYkN21p%2FLzTyJAdmiMX7f%2FE%2BvXZm8oufCl7IQWqkG9hTact9iMCNX96CLki3ugSTzrsfkiMG0XkUCzBMQ9N6NiD1uKsa%2BrX2qI5kyhh%2BYaPEfLE66xwWDv4EedNI6aU5hs%2FjE2NE11XZuhHmmrkfU4hdyGv%2BIqotn6w55Kvoat6iHjTQprbHilu5kGWyfh%2FLWT9lCrhZI1u0WKYT7iiFKsPA0vUyH3zF6Bc29jZihTkrNyhTGbiGhmjtrSut9EXlE4yhNhmPiyd7mV5udJmiuKu7kqjt8qxwZFJM4DoxXTHfx%2BxU%2BXH0n4UkR3VqLgpw4G9SKzmLfeYI0F3xAP69mUxU%2FV%2B5pGObIWqCGWk%2ByRCVtoax%2BCi%2ByaC69%2BRG111n6jf5PwYt0zC9mFpa5FNiMCUoM9h91nKT8uOJFYvyeEOZbP5VNqtkbhZGCBWLz89%2FH7Yc3wkZRryeJ2cECu6mcUYYrvGM9TGn6hbFnabgkYVMQxfJOo4OSlfEhCkC1ZUGvVu2SHMRtgoX%2F6HTXV5Z0RcRkgErYglIPsq0BovkzRIZajSKLxX83WN6UwY5YA%2FkvFlEJB4d9sLk780SluTF5dwBMjJkPOfG3L5Y3C798mP0QXImcWSRALaxuYg0fMayAs8GmfqBQ01AA9670i94FzL5xYsGKw%2BYw3josjkY1qwxcsqWucxOE1pPLzSinQxgq24n%2FjqcI23l4tLV6AlZ8j%2BuxK7XXjovxFZ1Ze9gwlYeFsQY6sgGfh7iAqQQ8dlcEZ8KIg5%2F203o2sGcZr46mgeGBm4PhBgQUMAh0hsEaL6KiRrSJGvxB7XycRxIONxG7QI7J6Od5y6hpGdvEurk1NIVBnZZgaNQ9FL5pkrmDgWztHhgmQK8oPP%2BwSD7LCqFueSkyUOzt9uREKTndfP9xxShovuZnw1ws5v32DOk2wGJRDWMglxKflnIhTddz3lknP%2FF%2FifO9VBN3BOAaBee7eLeCX3242H8F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240418T174907Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3599&X-Amz-Credential=ASIASXCYXIIFFJRDSFEH%2F20240418%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=db82e11e176286eea042d78be0fe387028cd10ac1eee67552dba2e58fecc045d",
+        "url": "https://www.foodnetwork.com/recipes/food-network-kitchen/strawberry-pie-cake-recipe-2043007"
+    },
+    {
+        "name": "Pumpkin Pie Cake",
+        "ingredients": [
+            "Cake:",
+            "Cooking spray",
+            "2 tablespoons all-purpose flour",
+            "1 cup granulated sugar",
+            "½ cup packed brown sugar",
+            "¼ cup canola oil",
+            "½ cup egg substitute",
             "2 large eggs",
-            "1 cup milk",
-            "1/2 cup vegetable oil",
+            "1 (15-ounce) can unsweetened pumpkin",
+            "2 cups all-purpose flour (about 9 ounces)",
+            "1 teaspoon baking powder",
+            "1 teaspoon baking soda",
+            "2 teaspoons pumpkin-pie spice",
+            "½ teaspoon salt",
+            "Frosting:",
+            "2 tablespoons butter, softened",
+            "1 (8-ounce) package 1/3-less-fat cream cheese",
+            "3 cups powdered sugar",
+            "2 teaspoons fresh orange juice",
+            "¼ cup chopped pecans, toasted",
+            "Orange slices (optional)"
+        ],
+        "imageUrl": "https://edamam-product-images.s3.amazonaws.com/web-img/77d/77d3576220cacb188c1ac1456ee012a9?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCICfPP29XAlnYS%2Bm%2Fe8BQ8obr9mevnbf4TjT%2FY2ZhCtwQAiAaKtZBkcTJAhIp1MnV0S7c0BdyXT9BmLMkK%2FO3M0VPYyrCBQjx%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDE4NzAxNzE1MDk4NiIMkUIS7832s13NWGkZKpYF3kIjqC4rZVBDq9iMLOBu%2F%2BFoQN4GbzIDAEeS4kHY4Hb9%2BA3YKh9wq90eIr0J%2BgpK7r6AeebKbHauRIOG%2FIoL%2FQfyc%2Bn2EcmyeyroggilLdcz12VjM%2ByYyJvt%2BXkBbzTNuz82Tmz7wxXMYkN21p%2FLzTyJAdmiMX7f%2FE%2BvXZm8oufCl7IQWqkG9hTact9iMCNX96CLki3ugSTzrsfkiMG0XkUCzBMQ9N6NiD1uKsa%2BrX2qI5kyhh%2BYaPEfLE66xwWDv4EedNI6aU5hs%2FjE2NE11XZuhHmmrkfU4hdyGv%2BIqotn6w55Kvoat6iHjTQprbHilu5kGWyfh%2FLWT9lCrhZI1u0WKYT7iiFKsPA0vUyH3zF6Bc29jZihTkrNyhTGbiGhmjtrSut9EXlE4yhNhmPiyd7mV5udJmiuKu7kqjt8qxwZFJM4DoxXTHfx%2BxU%2BXH0n4UkR3VqLgpw4G9SKzmLfeYI0F3xAP69mUxU%2FV%2B5pGObIWqCGWk%2ByRCVtoax%2BCi%2ByaC69%2BRG111n6jf5PwYt0zC9mFpa5FNiMCUoM9h91nKT8uOJFYvyeEOZbP5VNqtkbhZGCBWLz89%2FH7Yc3wkZRryeJ2cECu6mcUYYrvGM9TGn6hbFnabgkYVMQxfJOo4OSlfEhCkC1ZUGvVu2SHMRtgoX%2F6HTXV5Z0RcRkgErYglIPsq0BovkzRIZajSKLxX83WN6UwY5YA%2FkvFlEJB4d9sLk780SluTF5dwBMjJkPOfG3L5Y3C798mP0QXImcWSRALaxuYg0fMayAs8GmfqBQ01AA9670i94FzL5xYsGKw%2BYw3josjkY1qwxcsqWucxOE1pPLzSinQxgq24n%2FjqcI23l4tLV6AlZ8j%2BuxK7XXjovxFZ1Ze9gwlYeFsQY6sgGfh7iAqQQ8dlcEZ8KIg5%2F203o2sGcZr46mgeGBm4PhBgQUMAh0hsEaL6KiRrSJGvxB7XycRxIONxG7QI7J6Od5y6hpGdvEurk1NIVBnZZgaNQ9FL5pkrmDgWztHhgmQK8oPP%2BwSD7LCqFueSkyUOzt9uREKTndfP9xxShovuZnw1ws5v32DOk2wGJRDWMglxKflnIhTddz3lknP%2FF%2FifO9VBN3BOAaBee7eLeCX3242H8F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240418T174907Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFFJRDSFEH%2F20240418%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=1a9936f7f30ebc9133c84d7d2ae3d316e30dca38755a20e00397c4f38e2aec82",
+        "url": "https://www.myrecipes.com/recipe/pumpkin-pie-cake"
+    },
+    {
+        "name": "Key Lime Pie Cake Recipe",
+        "ingredients": [
+            "For the Cake:",
+            "Baking spray",
+            "2 1/4 cups (about 11 1/4 ounces) all-purpose flour",
+            "2 teaspoons baking powder",
+            "1 teaspoon baking soda",
+            "3/4 teaspoon salt",
+            "1 cup buttermilk, at room temperature",
+            "2 teaspoons pure vanilla extract",
+            "2 sticks (8 ounces) unsalted butter, at room temperature",
+            "3 large eggs, at room temperature",
+            "1 3/4 cups (about 12 1/4 ounces) granulated sugar",
+            "For the Graham Cracker Crunch:",
+            "1 1/4 cups graham cracker crumbs",
+            "2 ounces (1/2 stick) unsalted butter, melted and slightly cooled",
+            "1/4 cup (about 1 3/4 ounces) packed light brown sugar",
+            "1/4 teaspoon salt",
+            "For the Key Lime Icing:",
+            "1/2 cup (about 3 1/2 ounces) granulated sugar",
+            "6 large egg yolks, at room temperature",
+            "1/8 teaspoon salt",
+            "2 tablespoons finely grated zest and 3/4 cup juice from 12 Key limes or 8 limes",
+            "1 (14-ounce) can sweetened condensed milk",
+            "1 (.25-ounce) package unflavored gelatin",
+            "3 tablespoons water",
+            "2 ounces cream cheese, at room temperature",
+            "2 tablespoons confectioners’ sugar",
+            "1/2 cup heavy cream"
+        ],
+        "imageUrl": "https://edamam-product-images.s3.amazonaws.com/web-img/589/589bd801332ef04107ea9a4dfc809747.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCICfPP29XAlnYS%2Bm%2Fe8BQ8obr9mevnbf4TjT%2FY2ZhCtwQAiAaKtZBkcTJAhIp1MnV0S7c0BdyXT9BmLMkK%2FO3M0VPYyrCBQjx%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDE4NzAxNzE1MDk4NiIMkUIS7832s13NWGkZKpYF3kIjqC4rZVBDq9iMLOBu%2F%2BFoQN4GbzIDAEeS4kHY4Hb9%2BA3YKh9wq90eIr0J%2BgpK7r6AeebKbHauRIOG%2FIoL%2FQfyc%2Bn2EcmyeyroggilLdcz12VjM%2ByYyJvt%2BXkBbzTNuz82Tmz7wxXMYkN21p%2FLzTyJAdmiMX7f%2FE%2BvXZm8oufCl7IQWqkG9hTact9iMCNX96CLki3ugSTzrsfkiMG0XkUCzBMQ9N6NiD1uKsa%2BrX2qI5kyhh%2BYaPEfLE66xwWDv4EedNI6aU5hs%2FjE2NE11XZuhHmmrkfU4hdyGv%2BIqotn6w55Kvoat6iHjTQprbHilu5kGWyfh%2FLWT9lCrhZI1u0WKYT7iiFKsPA0vUyH3zF6Bc29jZihTkrNyhTGbiGhmjtrSut9EXlE4yhNhmPiyd7mV5udJmiuKu7kqjt8qxwZFJM4DoxXTHfx%2BxU%2BXH0n4UkR3VqLgpw4G9SKzmLfeYI0F3xAP69mUxU%2FV%2B5pGObIWqCGWk%2ByRCVtoax%2BCi%2ByaC69%2BRG111n6jf5PwYt0zC9mFpa5FNiMCUoM9h91nKT8uOJFYvyeEOZbP5VNqtkbhZGCBWLz89%2FH7Yc3wkZRryeJ2cECu6mcUYYrvGM9TGn6hbFnabgkYVMQxfJOo4OSlfEhCkC1ZUGvVu2SHMRtgoX%2F6HTXV5Z0RcRkgErYglIPsq0BovkzRIZajSKLxX83WN6UwY5YA%2FkvFlEJB4d9sLk780SluTF5dwBMjJkPOfG3L5Y3C798mP0QXImcWSRALaxuYg0fMayAs8GmfqBQ01AA9670i94FzL5xYsGKw%2BYw3josjkY1qwxcsqWucxOE1pPLzSinQxgq24n%2FjqcI23l4tLV6AlZ8j%2BuxK7XXjovxFZ1Ze9gwlYeFsQY6sgGfh7iAqQQ8dlcEZ8KIg5%2F203o2sGcZr46mgeGBm4PhBgQUMAh0hsEaL6KiRrSJGvxB7XycRxIONxG7QI7J6Od5y6hpGdvEurk1NIVBnZZgaNQ9FL5pkrmDgWztHhgmQK8oPP%2BwSD7LCqFueSkyUOzt9uREKTndfP9xxShovuZnw1ws5v32DOk2wGJRDWMglxKflnIhTddz3lknP%2FF%2FifO9VBN3BOAaBee7eLeCX3242H8F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240418T174907Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFFJRDSFEH%2F20240418%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=481f98548d3351195480ce3516194e1dfcd232b7890062bc48075efbb2f5de63",
+        "url": "https://www.seriouseats.com/key-lime-pie-cake-recipe"
+    },
+    {
+        "name": "Apple Pie Cake",
+        "ingredients": [
+            "For the Cake",
+            "1/2 cup unsalted butter, softened",
+            "6 ounces cream cheese, softened",
+            "1 cup granulated sugar",
+            "1 cup light brown sugar",
+            "3 eggs",
+            "3 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "3 teaspoons cinnamon",
+            "1/2 teaspoon allspice",
+            "1/4 teaspoon freshly grated nutmeg",
+            "1/2 teaspoon kosher salt",
             "2 teaspoons vanilla extract",
-            "1 cup warm water (warm from the tap is fine)",
-            "Basic Chocolate Buttercream Ingredients:",
-            "4 cups (1 pound) powdered sugar",
-            "3/4 cup Dutch process cocoa powder",
-            "1/2 teaspoon salt",
-            "1 cup butter",
-            "2 teaspoons vanilla extract",
-            "1/3 cup milk"
+            "4 firm apples, chopped into 1/2\" pieces",
+            "For the caramel",
+            "1/2 cup unsalted butter, softened",
+            "3 tablespoons all-purpose flour",
+            "1 teaspoon cornstarch",
+            "1/4 cup water, scant",
+            "1/2 cup granulated sugar",
+            "1/2 cup light brown sugar",
+            "1/4 teaspoon cinnamon",
+            "1/8 teaspoon freshly ground nutmeg",
+            "1/8 teaspoon allspice",
+            "1 teaspoon vanilla extract"
         ],
-        "imageUrl": "https://edamam-product-images.s3.amazonaws.com/web-img/220/2207505113ae86f29660999cae2d2b1c.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQD4k4bJrvl5rKwDx8HTSmHf4CY%2F8St0R8NvFSMhrWrVXQIhAJVgMN6d1DrVwhHhkJBKQkPiz2gWiB7AfdoKkp93DdxeKsIFCOj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMTg3MDE3MTUwOTg2IgzdiUsBCLbwfBTRN2kqlgX2qQoNvCAOp0rDgBtUuNkWIquGeQO6q4Cw3PpHg2x%2B4MTx9QX1HgqE6u3eKJOQfY%2BP3QZbzPBy7XVv5CznS8lfEMfaErNFNIVfACH5rHnWVtT%2BvLbCGxY1%2BL6YNLs1uIt6aY6lw%2BHOK9d92GnxPsNvZfG%2Fvt72t%2FoF2FJucVM4F4xhqaqYyAkBZQSQzEBGF%2BUnmunzgxq%2F9aH%2BtAaGE%2BGOjSMaJyFy8Ys9KJloeZCHb1PbDxgMj64HI0sOE%2FW6uZrxKilnlfiAdVF2l3ZtGpIiR3tUQC3RlU3fHxTE2AN7YY9ULsC9SOR51a48T7%2BKLMpkOGRYR4QEkgMfVnt3ETzs%2ButqFKF2ERz1NpmydEyqvgIibpfQTCi7s%2BSmWB61gtv95EIY1LxbNz2ZVd1fWPMQjs691TQneCFSt35h4%2Fz%2BK%2BWSz0glNw6kj%2B3Qgq9vD7BcmgFTSm8xCOFvELs7i%2Bm35sPCNRp%2F1rAd9NRjBnXY28Py1yKB8ei9c0lOaSczIseBMVC87c4KHuz5A%2BGCWA0y65XNsNgFnXhkoQUdIJ8wU1YI9IVSsZxLfp14w%2Fa2O6xOX2Cbq5JnNY7rvM7%2FUpgIFulGBOGDLcblomzxtsxOkdu%2B%2F5Fw8idB3O43ltKNjmVJvSVmP6glZO0P40UpyrJirTA6O2OgIAebgavk4knKPLW37N91GJD9%2Bxi2OyfYLK1NXavTNbQzsKO3FLEeOsIqtwCaHW1PmL88YHBglDfvGv5ZQFcCrgA4A4HkPknYAc53%2BKrjgixhuSO%2B7WshggmcPZ8PmGnaBQN7F84c55eLb1Y%2Bh%2BWp9mZZT4X64HTIzZaLkrs%2Bg9kNmz2pgBJA2WB65LCKCG3maFsPmHFumFYmFuwGG6dI9jDTtc6wBjqwAVCpauZWNcCLK5MnM9wUT5gXOVD6rWUDjxT5EukphBkgEcvCT65xPLjqAIuK2%2BKd0ulJtwNieWNudQIM9NAnXSpwUF%2BvUdulGfI9WC%2FLI38KzDTqxvWEDhsM9w7f1rqY9CrbacbCG1YZ63dIxzbhaM5JKROUuPJmpF3hWKHrYO8WzSLzxUgTXv1Jd3lkXS36F6UgmpwwjNWC0odwSj6A1Vdod89eZhIT8sfn9MVlSK4y&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240408T081813Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFJHCYRR4D%2F20240408%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=680560b8f5b63ee2941fc6062a27e8aa172292cc88edc29c708958fcc9d76cab",
-        "url": "https://www.seriouseats.com/one-bowl-gluten-free-chocolate-cake-recipe"
-    },
-    {
-        "name": "German Chocolate Cake",
-        "ingredients": [
-            "Nonstick cooking spray",
-            "1 box German chocolate cake mix",
-            "One 14-ounce can sweetened condensed milk",
-            "4 egg yolks, lightly beaten",
-            "4 tablespoons (1/2 stick) butter",
-            "One 7-ounce bag sweetened flaked coconut",
-            "2 teaspoons vanilla extract",
-            "1 cup coarsely chopped pecans"
-        ],
-        "imageUrl": "https://edamam-product-images.s3.amazonaws.com/web-img/7d0/7d04a609f691b30773fd51602f4c86db.jpeg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQD4k4bJrvl5rKwDx8HTSmHf4CY%2F8St0R8NvFSMhrWrVXQIhAJVgMN6d1DrVwhHhkJBKQkPiz2gWiB7AfdoKkp93DdxeKsIFCOj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMTg3MDE3MTUwOTg2IgzdiUsBCLbwfBTRN2kqlgX2qQoNvCAOp0rDgBtUuNkWIquGeQO6q4Cw3PpHg2x%2B4MTx9QX1HgqE6u3eKJOQfY%2BP3QZbzPBy7XVv5CznS8lfEMfaErNFNIVfACH5rHnWVtT%2BvLbCGxY1%2BL6YNLs1uIt6aY6lw%2BHOK9d92GnxPsNvZfG%2Fvt72t%2FoF2FJucVM4F4xhqaqYyAkBZQSQzEBGF%2BUnmunzgxq%2F9aH%2BtAaGE%2BGOjSMaJyFy8Ys9KJloeZCHb1PbDxgMj64HI0sOE%2FW6uZrxKilnlfiAdVF2l3ZtGpIiR3tUQC3RlU3fHxTE2AN7YY9ULsC9SOR51a48T7%2BKLMpkOGRYR4QEkgMfVnt3ETzs%2ButqFKF2ERz1NpmydEyqvgIibpfQTCi7s%2BSmWB61gtv95EIY1LxbNz2ZVd1fWPMQjs691TQneCFSt35h4%2Fz%2BK%2BWSz0glNw6kj%2B3Qgq9vD7BcmgFTSm8xCOFvELs7i%2Bm35sPCNRp%2F1rAd9NRjBnXY28Py1yKB8ei9c0lOaSczIseBMVC87c4KHuz5A%2BGCWA0y65XNsNgFnXhkoQUdIJ8wU1YI9IVSsZxLfp14w%2Fa2O6xOX2Cbq5JnNY7rvM7%2FUpgIFulGBOGDLcblomzxtsxOkdu%2B%2F5Fw8idB3O43ltKNjmVJvSVmP6glZO0P40UpyrJirTA6O2OgIAebgavk4knKPLW37N91GJD9%2Bxi2OyfYLK1NXavTNbQzsKO3FLEeOsIqtwCaHW1PmL88YHBglDfvGv5ZQFcCrgA4A4HkPknYAc53%2BKrjgixhuSO%2B7WshggmcPZ8PmGnaBQN7F84c55eLb1Y%2Bh%2BWp9mZZT4X64HTIzZaLkrs%2Bg9kNmz2pgBJA2WB65LCKCG3maFsPmHFumFYmFuwGG6dI9jDTtc6wBjqwAVCpauZWNcCLK5MnM9wUT5gXOVD6rWUDjxT5EukphBkgEcvCT65xPLjqAIuK2%2BKd0ulJtwNieWNudQIM9NAnXSpwUF%2BvUdulGfI9WC%2FLI38KzDTqxvWEDhsM9w7f1rqY9CrbacbCG1YZ63dIxzbhaM5JKROUuPJmpF3hWKHrYO8WzSLzxUgTXv1Jd3lkXS36F6UgmpwwjNWC0odwSj6A1Vdod89eZhIT8sfn9MVlSK4y&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240408T081813Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFJHCYRR4D%2F20240408%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=4a90ce1b8e44180e3c7cdc4ce05414376aad32754b7a15cbe5d934a988044f37",
-        "url": "https://www.cookingchanneltv.com/recipes/german-chocolate-cake-2776814"
-    },
-    {
-        "name": "Chocolate Candy Heart Cake",
-        "ingredients": [
-            "1 1⁄4 cups seedless raspberry jam",
-            "3 tbsp. Grand Marnier",
-            "1 tbsp. vanilla extract",
-            "1 (8″) square chocolate cake, cooled and unfrosted",
-            "1 (8″) circular chocolate cake, cooled and unfrosted"
-        ],
-        "imageUrl": "https://edamam-product-images.s3.amazonaws.com/web-img/012/0122e1da8e5232b9d201b12f742a7772.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQD4k4bJrvl5rKwDx8HTSmHf4CY%2F8St0R8NvFSMhrWrVXQIhAJVgMN6d1DrVwhHhkJBKQkPiz2gWiB7AfdoKkp93DdxeKsIFCOj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMTg3MDE3MTUwOTg2IgzdiUsBCLbwfBTRN2kqlgX2qQoNvCAOp0rDgBtUuNkWIquGeQO6q4Cw3PpHg2x%2B4MTx9QX1HgqE6u3eKJOQfY%2BP3QZbzPBy7XVv5CznS8lfEMfaErNFNIVfACH5rHnWVtT%2BvLbCGxY1%2BL6YNLs1uIt6aY6lw%2BHOK9d92GnxPsNvZfG%2Fvt72t%2FoF2FJucVM4F4xhqaqYyAkBZQSQzEBGF%2BUnmunzgxq%2F9aH%2BtAaGE%2BGOjSMaJyFy8Ys9KJloeZCHb1PbDxgMj64HI0sOE%2FW6uZrxKilnlfiAdVF2l3ZtGpIiR3tUQC3RlU3fHxTE2AN7YY9ULsC9SOR51a48T7%2BKLMpkOGRYR4QEkgMfVnt3ETzs%2ButqFKF2ERz1NpmydEyqvgIibpfQTCi7s%2BSmWB61gtv95EIY1LxbNz2ZVd1fWPMQjs691TQneCFSt35h4%2Fz%2BK%2BWSz0glNw6kj%2B3Qgq9vD7BcmgFTSm8xCOFvELs7i%2Bm35sPCNRp%2F1rAd9NRjBnXY28Py1yKB8ei9c0lOaSczIseBMVC87c4KHuz5A%2BGCWA0y65XNsNgFnXhkoQUdIJ8wU1YI9IVSsZxLfp14w%2Fa2O6xOX2Cbq5JnNY7rvM7%2FUpgIFulGBOGDLcblomzxtsxOkdu%2B%2F5Fw8idB3O43ltKNjmVJvSVmP6glZO0P40UpyrJirTA6O2OgIAebgavk4knKPLW37N91GJD9%2Bxi2OyfYLK1NXavTNbQzsKO3FLEeOsIqtwCaHW1PmL88YHBglDfvGv5ZQFcCrgA4A4HkPknYAc53%2BKrjgixhuSO%2B7WshggmcPZ8PmGnaBQN7F84c55eLb1Y%2Bh%2BWp9mZZT4X64HTIzZaLkrs%2Bg9kNmz2pgBJA2WB65LCKCG3maFsPmHFumFYmFuwGG6dI9jDTtc6wBjqwAVCpauZWNcCLK5MnM9wUT5gXOVD6rWUDjxT5EukphBkgEcvCT65xPLjqAIuK2%2BKd0ulJtwNieWNudQIM9NAnXSpwUF%2BvUdulGfI9WC%2FLI38KzDTqxvWEDhsM9w7f1rqY9CrbacbCG1YZ63dIxzbhaM5JKROUuPJmpF3hWKHrYO8WzSLzxUgTXv1Jd3lkXS36F6UgmpwwjNWC0odwSj6A1Vdod89eZhIT8sfn9MVlSK4y&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240408T081813Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFJHCYRR4D%2F20240408%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=4c6f3d4b74a85c58d2f1482575dad8008f4f9f7c290413f79ce7cbfa8ab25dbb",
-        "url": "https://www.saveur.com/article/Recipes/Chocolate-Candy-Heart-Valentine-Cake/"
-    },
-    {
-        "name": "German Chocolate Cake Cookies",
-        "ingredients": [
-            "1 box German chocolate cake mix (or regular chocolate cake mix)",
-            "1/3 c. Vegetable or canola oil",
-            "2 large eggs",
-            "1 jar caramel (10- to 12-oz.)",
-            "2/3 c. coconut flakes",
-            "2/3 c. chopped pecans",
-            "sea salt (optional)"
-        ],
-        "imageUrl": "https://edamam-product-images.s3.amazonaws.com/web-img/b90/b90af5870f5fd90fe445e24e389b7f6a.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQD4k4bJrvl5rKwDx8HTSmHf4CY%2F8St0R8NvFSMhrWrVXQIhAJVgMN6d1DrVwhHhkJBKQkPiz2gWiB7AfdoKkp93DdxeKsIFCOj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMTg3MDE3MTUwOTg2IgzdiUsBCLbwfBTRN2kqlgX2qQoNvCAOp0rDgBtUuNkWIquGeQO6q4Cw3PpHg2x%2B4MTx9QX1HgqE6u3eKJOQfY%2BP3QZbzPBy7XVv5CznS8lfEMfaErNFNIVfACH5rHnWVtT%2BvLbCGxY1%2BL6YNLs1uIt6aY6lw%2BHOK9d92GnxPsNvZfG%2Fvt72t%2FoF2FJucVM4F4xhqaqYyAkBZQSQzEBGF%2BUnmunzgxq%2F9aH%2BtAaGE%2BGOjSMaJyFy8Ys9KJloeZCHb1PbDxgMj64HI0sOE%2FW6uZrxKilnlfiAdVF2l3ZtGpIiR3tUQC3RlU3fHxTE2AN7YY9ULsC9SOR51a48T7%2BKLMpkOGRYR4QEkgMfVnt3ETzs%2ButqFKF2ERz1NpmydEyqvgIibpfQTCi7s%2BSmWB61gtv95EIY1LxbNz2ZVd1fWPMQjs691TQneCFSt35h4%2Fz%2BK%2BWSz0glNw6kj%2B3Qgq9vD7BcmgFTSm8xCOFvELs7i%2Bm35sPCNRp%2F1rAd9NRjBnXY28Py1yKB8ei9c0lOaSczIseBMVC87c4KHuz5A%2BGCWA0y65XNsNgFnXhkoQUdIJ8wU1YI9IVSsZxLfp14w%2Fa2O6xOX2Cbq5JnNY7rvM7%2FUpgIFulGBOGDLcblomzxtsxOkdu%2B%2F5Fw8idB3O43ltKNjmVJvSVmP6glZO0P40UpyrJirTA6O2OgIAebgavk4knKPLW37N91GJD9%2Bxi2OyfYLK1NXavTNbQzsKO3FLEeOsIqtwCaHW1PmL88YHBglDfvGv5ZQFcCrgA4A4HkPknYAc53%2BKrjgixhuSO%2B7WshggmcPZ8PmGnaBQN7F84c55eLb1Y%2Bh%2BWp9mZZT4X64HTIzZaLkrs%2Bg9kNmz2pgBJA2WB65LCKCG3maFsPmHFumFYmFuwGG6dI9jDTtc6wBjqwAVCpauZWNcCLK5MnM9wUT5gXOVD6rWUDjxT5EukphBkgEcvCT65xPLjqAIuK2%2BKd0ulJtwNieWNudQIM9NAnXSpwUF%2BvUdulGfI9WC%2FLI38KzDTqxvWEDhsM9w7f1rqY9CrbacbCG1YZ63dIxzbhaM5JKROUuPJmpF3hWKHrYO8WzSLzxUgTXv1Jd3lkXS36F6UgmpwwjNWC0odwSj6A1Vdod89eZhIT8sfn9MVlSK4y&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240408T081813Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFJHCYRR4D%2F20240408%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=50f937f90cf8efebcea7ab654cbcba264d494442b9ffaa5aceefefbf1daec8dc",
-        "url": "https://www.delish.com/holiday-recipes/christmas/recipes/a45295/german-chocolate-cake-cookies-recipe/"
-    },
-    {
-        "name": "Chocolate Cake Shake",
-        "ingredients": [
-            "4 cups vanilla ice cream",
-            "1/2 to 1 cup whole milk",
-            "One 8-ounce piece leftover chocolate cake",
-            "2 shots espresso or coffee liqueur, optional"
-        ],
-        "imageUrl": "https://edamam-product-images.s3.amazonaws.com/web-img/190/19058327028b9baca6561020a7043cc3.jpeg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQD4k4bJrvl5rKwDx8HTSmHf4CY%2F8St0R8NvFSMhrWrVXQIhAJVgMN6d1DrVwhHhkJBKQkPiz2gWiB7AfdoKkp93DdxeKsIFCOj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMTg3MDE3MTUwOTg2IgzdiUsBCLbwfBTRN2kqlgX2qQoNvCAOp0rDgBtUuNkWIquGeQO6q4Cw3PpHg2x%2B4MTx9QX1HgqE6u3eKJOQfY%2BP3QZbzPBy7XVv5CznS8lfEMfaErNFNIVfACH5rHnWVtT%2BvLbCGxY1%2BL6YNLs1uIt6aY6lw%2BHOK9d92GnxPsNvZfG%2Fvt72t%2FoF2FJucVM4F4xhqaqYyAkBZQSQzEBGF%2BUnmunzgxq%2F9aH%2BtAaGE%2BGOjSMaJyFy8Ys9KJloeZCHb1PbDxgMj64HI0sOE%2FW6uZrxKilnlfiAdVF2l3ZtGpIiR3tUQC3RlU3fHxTE2AN7YY9ULsC9SOR51a48T7%2BKLMpkOGRYR4QEkgMfVnt3ETzs%2ButqFKF2ERz1NpmydEyqvgIibpfQTCi7s%2BSmWB61gtv95EIY1LxbNz2ZVd1fWPMQjs691TQneCFSt35h4%2Fz%2BK%2BWSz0glNw6kj%2B3Qgq9vD7BcmgFTSm8xCOFvELs7i%2Bm35sPCNRp%2F1rAd9NRjBnXY28Py1yKB8ei9c0lOaSczIseBMVC87c4KHuz5A%2BGCWA0y65XNsNgFnXhkoQUdIJ8wU1YI9IVSsZxLfp14w%2Fa2O6xOX2Cbq5JnNY7rvM7%2FUpgIFulGBOGDLcblomzxtsxOkdu%2B%2F5Fw8idB3O43ltKNjmVJvSVmP6glZO0P40UpyrJirTA6O2OgIAebgavk4knKPLW37N91GJD9%2Bxi2OyfYLK1NXavTNbQzsKO3FLEeOsIqtwCaHW1PmL88YHBglDfvGv5ZQFcCrgA4A4HkPknYAc53%2BKrjgixhuSO%2B7WshggmcPZ8PmGnaBQN7F84c55eLb1Y%2Bh%2BWp9mZZT4X64HTIzZaLkrs%2Bg9kNmz2pgBJA2WB65LCKCG3maFsPmHFumFYmFuwGG6dI9jDTtc6wBjqwAVCpauZWNcCLK5MnM9wUT5gXOVD6rWUDjxT5EukphBkgEcvCT65xPLjqAIuK2%2BKd0ulJtwNieWNudQIM9NAnXSpwUF%2BvUdulGfI9WC%2FLI38KzDTqxvWEDhsM9w7f1rqY9CrbacbCG1YZ63dIxzbhaM5JKROUuPJmpF3hWKHrYO8WzSLzxUgTXv1Jd3lkXS36F6UgmpwwjNWC0odwSj6A1Vdod89eZhIT8sfn9MVlSK4y&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240408T081813Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFJHCYRR4D%2F20240408%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=eb760550cfc7314544a2db8a05e15b1545770a59862e7b40549118737ca752c2",
-        "url": "https://www.foodnetwork.com/recipes/jeff-mauro/chocolate-cake-shake-recipe-2119922"
-    },
-    {
-        "name": "Chocolate Cake Truffles",
-        "ingredients": [
-            "2 cups dark chocolate chopped",
-            "1/2 cup unsalted butter",
-            "2 cups cake crumbs i made crumbs from basic vanilla cake"
-        ],
-        "imageUrl": "https://edamam-product-images.s3.amazonaws.com/web-img/42e/42e61efca2006ec3d49c3182f051ac38.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQD4k4bJrvl5rKwDx8HTSmHf4CY%2F8St0R8NvFSMhrWrVXQIhAJVgMN6d1DrVwhHhkJBKQkPiz2gWiB7AfdoKkp93DdxeKsIFCOj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMTg3MDE3MTUwOTg2IgzdiUsBCLbwfBTRN2kqlgX2qQoNvCAOp0rDgBtUuNkWIquGeQO6q4Cw3PpHg2x%2B4MTx9QX1HgqE6u3eKJOQfY%2BP3QZbzPBy7XVv5CznS8lfEMfaErNFNIVfACH5rHnWVtT%2BvLbCGxY1%2BL6YNLs1uIt6aY6lw%2BHOK9d92GnxPsNvZfG%2Fvt72t%2FoF2FJucVM4F4xhqaqYyAkBZQSQzEBGF%2BUnmunzgxq%2F9aH%2BtAaGE%2BGOjSMaJyFy8Ys9KJloeZCHb1PbDxgMj64HI0sOE%2FW6uZrxKilnlfiAdVF2l3ZtGpIiR3tUQC3RlU3fHxTE2AN7YY9ULsC9SOR51a48T7%2BKLMpkOGRYR4QEkgMfVnt3ETzs%2ButqFKF2ERz1NpmydEyqvgIibpfQTCi7s%2BSmWB61gtv95EIY1LxbNz2ZVd1fWPMQjs691TQneCFSt35h4%2Fz%2BK%2BWSz0glNw6kj%2B3Qgq9vD7BcmgFTSm8xCOFvELs7i%2Bm35sPCNRp%2F1rAd9NRjBnXY28Py1yKB8ei9c0lOaSczIseBMVC87c4KHuz5A%2BGCWA0y65XNsNgFnXhkoQUdIJ8wU1YI9IVSsZxLfp14w%2Fa2O6xOX2Cbq5JnNY7rvM7%2FUpgIFulGBOGDLcblomzxtsxOkdu%2B%2F5Fw8idB3O43ltKNjmVJvSVmP6glZO0P40UpyrJirTA6O2OgIAebgavk4knKPLW37N91GJD9%2Bxi2OyfYLK1NXavTNbQzsKO3FLEeOsIqtwCaHW1PmL88YHBglDfvGv5ZQFcCrgA4A4HkPknYAc53%2BKrjgixhuSO%2B7WshggmcPZ8PmGnaBQN7F84c55eLb1Y%2Bh%2BWp9mZZT4X64HTIzZaLkrs%2Bg9kNmz2pgBJA2WB65LCKCG3maFsPmHFumFYmFuwGG6dI9jDTtc6wBjqwAVCpauZWNcCLK5MnM9wUT5gXOVD6rWUDjxT5EukphBkgEcvCT65xPLjqAIuK2%2BKd0ulJtwNieWNudQIM9NAnXSpwUF%2BvUdulGfI9WC%2FLI38KzDTqxvWEDhsM9w7f1rqY9CrbacbCG1YZ63dIxzbhaM5JKROUuPJmpF3hWKHrYO8WzSLzxUgTXv1Jd3lkXS36F6UgmpwwjNWC0odwSj6A1Vdod89eZhIT8sfn9MVlSK4y&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240408T081813Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFJHCYRR4D%2F20240408%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=ee03bf50ffeb81dbe770a599478cefaf7cb1c0ec0dd7864a52b707b3b9d6557c",
-        "url": "https://honestcooking.com/chocolate-cake-truffles/"
-    },
-    {
-        "name": "Recipe: Chocolate Crinkle Cake Mix Cookies",
-        "ingredients": [
-            "2 large eggs",
-            "1/2 cup vegetable oil",
-            "1 (15.25-ounce) package chocolate cake mix",
-            "1 cup powdered sugar"
-        ],
-        "imageUrl": "https://edamam-product-images.s3.amazonaws.com/web-img/739/739294c3379fbea48505ccf15c5c54cc?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQD4k4bJrvl5rKwDx8HTSmHf4CY%2F8St0R8NvFSMhrWrVXQIhAJVgMN6d1DrVwhHhkJBKQkPiz2gWiB7AfdoKkp93DdxeKsIFCOj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMTg3MDE3MTUwOTg2IgzdiUsBCLbwfBTRN2kqlgX2qQoNvCAOp0rDgBtUuNkWIquGeQO6q4Cw3PpHg2x%2B4MTx9QX1HgqE6u3eKJOQfY%2BP3QZbzPBy7XVv5CznS8lfEMfaErNFNIVfACH5rHnWVtT%2BvLbCGxY1%2BL6YNLs1uIt6aY6lw%2BHOK9d92GnxPsNvZfG%2Fvt72t%2FoF2FJucVM4F4xhqaqYyAkBZQSQzEBGF%2BUnmunzgxq%2F9aH%2BtAaGE%2BGOjSMaJyFy8Ys9KJloeZCHb1PbDxgMj64HI0sOE%2FW6uZrxKilnlfiAdVF2l3ZtGpIiR3tUQC3RlU3fHxTE2AN7YY9ULsC9SOR51a48T7%2BKLMpkOGRYR4QEkgMfVnt3ETzs%2ButqFKF2ERz1NpmydEyqvgIibpfQTCi7s%2BSmWB61gtv95EIY1LxbNz2ZVd1fWPMQjs691TQneCFSt35h4%2Fz%2BK%2BWSz0glNw6kj%2B3Qgq9vD7BcmgFTSm8xCOFvELs7i%2Bm35sPCNRp%2F1rAd9NRjBnXY28Py1yKB8ei9c0lOaSczIseBMVC87c4KHuz5A%2BGCWA0y65XNsNgFnXhkoQUdIJ8wU1YI9IVSsZxLfp14w%2Fa2O6xOX2Cbq5JnNY7rvM7%2FUpgIFulGBOGDLcblomzxtsxOkdu%2B%2F5Fw8idB3O43ltKNjmVJvSVmP6glZO0P40UpyrJirTA6O2OgIAebgavk4knKPLW37N91GJD9%2Bxi2OyfYLK1NXavTNbQzsKO3FLEeOsIqtwCaHW1PmL88YHBglDfvGv5ZQFcCrgA4A4HkPknYAc53%2BKrjgixhuSO%2B7WshggmcPZ8PmGnaBQN7F84c55eLb1Y%2Bh%2BWp9mZZT4X64HTIzZaLkrs%2Bg9kNmz2pgBJA2WB65LCKCG3maFsPmHFumFYmFuwGG6dI9jDTtc6wBjqwAVCpauZWNcCLK5MnM9wUT5gXOVD6rWUDjxT5EukphBkgEcvCT65xPLjqAIuK2%2BKd0ulJtwNieWNudQIM9NAnXSpwUF%2BvUdulGfI9WC%2FLI38KzDTqxvWEDhsM9w7f1rqY9CrbacbCG1YZ63dIxzbhaM5JKROUuPJmpF3hWKHrYO8WzSLzxUgTXv1Jd3lkXS36F6UgmpwwjNWC0odwSj6A1Vdod89eZhIT8sfn9MVlSK4y&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240408T081813Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFJHCYRR4D%2F20240408%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=7d4cf588f22916d3bf4a5873401cbd1d9e26af83e8ff3813efdcc0ed447d72c5",
-        "url": "https://www.thekitchn.com/chocolate-cake-mix-cookies-264476"
-    },
-    {
-        "name": "German chocolate cake as crepes",
-        "ingredients": [
-            "4 ounces Baker’s German’s or semisweet chocolate, broken into squares or coarsely chopped, divided",
-            "½ cup flour",
-            "½ teaspoon kosher salt",
-            "¼ cup whole milk",
-            "2 large eggs",
-            "¼ cup heavy cream",
-            "Butter for pan",
-            "Generous ½ cup warm custard for German chocolate cake",
-            "1 For the crepes, place 2 ounces of the chocolate in a metal bowl set over a saucepan of simmering water. Add one-half"
-        ],
-        "imageUrl": "https://edamam-product-images.s3.amazonaws.com/web-img/ed4/ed482e2cace3a37f28e4db8e1595d74e?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQD4k4bJrvl5rKwDx8HTSmHf4CY%2F8St0R8NvFSMhrWrVXQIhAJVgMN6d1DrVwhHhkJBKQkPiz2gWiB7AfdoKkp93DdxeKsIFCOj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMTg3MDE3MTUwOTg2IgzdiUsBCLbwfBTRN2kqlgX2qQoNvCAOp0rDgBtUuNkWIquGeQO6q4Cw3PpHg2x%2B4MTx9QX1HgqE6u3eKJOQfY%2BP3QZbzPBy7XVv5CznS8lfEMfaErNFNIVfACH5rHnWVtT%2BvLbCGxY1%2BL6YNLs1uIt6aY6lw%2BHOK9d92GnxPsNvZfG%2Fvt72t%2FoF2FJucVM4F4xhqaqYyAkBZQSQzEBGF%2BUnmunzgxq%2F9aH%2BtAaGE%2BGOjSMaJyFy8Ys9KJloeZCHb1PbDxgMj64HI0sOE%2FW6uZrxKilnlfiAdVF2l3ZtGpIiR3tUQC3RlU3fHxTE2AN7YY9ULsC9SOR51a48T7%2BKLMpkOGRYR4QEkgMfVnt3ETzs%2ButqFKF2ERz1NpmydEyqvgIibpfQTCi7s%2BSmWB61gtv95EIY1LxbNz2ZVd1fWPMQjs691TQneCFSt35h4%2Fz%2BK%2BWSz0glNw6kj%2B3Qgq9vD7BcmgFTSm8xCOFvELs7i%2Bm35sPCNRp%2F1rAd9NRjBnXY28Py1yKB8ei9c0lOaSczIseBMVC87c4KHuz5A%2BGCWA0y65XNsNgFnXhkoQUdIJ8wU1YI9IVSsZxLfp14w%2Fa2O6xOX2Cbq5JnNY7rvM7%2FUpgIFulGBOGDLcblomzxtsxOkdu%2B%2F5Fw8idB3O43ltKNjmVJvSVmP6glZO0P40UpyrJirTA6O2OgIAebgavk4knKPLW37N91GJD9%2Bxi2OyfYLK1NXavTNbQzsKO3FLEeOsIqtwCaHW1PmL88YHBglDfvGv5ZQFcCrgA4A4HkPknYAc53%2BKrjgixhuSO%2B7WshggmcPZ8PmGnaBQN7F84c55eLb1Y%2Bh%2BWp9mZZT4X64HTIzZaLkrs%2Bg9kNmz2pgBJA2WB65LCKCG3maFsPmHFumFYmFuwGG6dI9jDTtc6wBjqwAVCpauZWNcCLK5MnM9wUT5gXOVD6rWUDjxT5EukphBkgEcvCT65xPLjqAIuK2%2BKd0ulJtwNieWNudQIM9NAnXSpwUF%2BvUdulGfI9WC%2FLI38KzDTqxvWEDhsM9w7f1rqY9CrbacbCG1YZ63dIxzbhaM5JKROUuPJmpF3hWKHrYO8WzSLzxUgTXv1Jd3lkXS36F6UgmpwwjNWC0odwSj6A1Vdod89eZhIT8sfn9MVlSK4y&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240408T081813Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFJHCYRR4D%2F20240408%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=50e39d09f8f101fd8f163e7c948a970f27bd4836373eb0e33099a0ca91c23806",
-        "url": "https://www.latimes.com/recipe/german-chocolate-cake-as-crepes"
+        "imageUrl": "https://edamam-product-images.s3.amazonaws.com/web-img/cff/cffa90621bece07658fef5a3eab6fb13.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCICfPP29XAlnYS%2Bm%2Fe8BQ8obr9mevnbf4TjT%2FY2ZhCtwQAiAaKtZBkcTJAhIp1MnV0S7c0BdyXT9BmLMkK%2FO3M0VPYyrCBQjx%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDE4NzAxNzE1MDk4NiIMkUIS7832s13NWGkZKpYF3kIjqC4rZVBDq9iMLOBu%2F%2BFoQN4GbzIDAEeS4kHY4Hb9%2BA3YKh9wq90eIr0J%2BgpK7r6AeebKbHauRIOG%2FIoL%2FQfyc%2Bn2EcmyeyroggilLdcz12VjM%2ByYyJvt%2BXkBbzTNuz82Tmz7wxXMYkN21p%2FLzTyJAdmiMX7f%2FE%2BvXZm8oufCl7IQWqkG9hTact9iMCNX96CLki3ugSTzrsfkiMG0XkUCzBMQ9N6NiD1uKsa%2BrX2qI5kyhh%2BYaPEfLE66xwWDv4EedNI6aU5hs%2FjE2NE11XZuhHmmrkfU4hdyGv%2BIqotn6w55Kvoat6iHjTQprbHilu5kGWyfh%2FLWT9lCrhZI1u0WKYT7iiFKsPA0vUyH3zF6Bc29jZihTkrNyhTGbiGhmjtrSut9EXlE4yhNhmPiyd7mV5udJmiuKu7kqjt8qxwZFJM4DoxXTHfx%2BxU%2BXH0n4UkR3VqLgpw4G9SKzmLfeYI0F3xAP69mUxU%2FV%2B5pGObIWqCGWk%2ByRCVtoax%2BCi%2ByaC69%2BRG111n6jf5PwYt0zC9mFpa5FNiMCUoM9h91nKT8uOJFYvyeEOZbP5VNqtkbhZGCBWLz89%2FH7Yc3wkZRryeJ2cECu6mcUYYrvGM9TGn6hbFnabgkYVMQxfJOo4OSlfEhCkC1ZUGvVu2SHMRtgoX%2F6HTXV5Z0RcRkgErYglIPsq0BovkzRIZajSKLxX83WN6UwY5YA%2FkvFlEJB4d9sLk780SluTF5dwBMjJkPOfG3L5Y3C798mP0QXImcWSRALaxuYg0fMayAs8GmfqBQ01AA9670i94FzL5xYsGKw%2BYw3josjkY1qwxcsqWucxOE1pPLzSinQxgq24n%2FjqcI23l4tLV6AlZ8j%2BuxK7XXjovxFZ1Ze9gwlYeFsQY6sgGfh7iAqQQ8dlcEZ8KIg5%2F203o2sGcZr46mgeGBm4PhBgQUMAh0hsEaL6KiRrSJGvxB7XycRxIONxG7QI7J6Od5y6hpGdvEurk1NIVBnZZgaNQ9FL5pkrmDgWztHhgmQK8oPP%2BwSD7LCqFueSkyUOzt9uREKTndfP9xxShovuZnw1ws5v32DOk2wGJRDWMglxKflnIhTddz3lknP%2FF%2FifO9VBN3BOAaBee7eLeCX3242H8F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240418T174907Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFFJRDSFEH%2F20240418%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=66dccefb6db7cf35e9f324e41157d547b000da426e24735edef97ead5779ed8e",
+        "url": "https://food52.com/recipes/769-apple-pie-cake"
     }
 ]

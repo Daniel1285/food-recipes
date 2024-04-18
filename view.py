@@ -17,26 +17,15 @@ class CookbookView(QMainWindow):
             self.ui.setupUi(self)
             self.setWindowTitle("Cookbook")
 
-            ##=======================================================================================================
-            ## Get all object in window
-            ##=======================================================================================================
+
             self.home_btn = self.ui.homeButton
 
-            ##=======================================================================================================
-            ## setup 
-            ##=======================================================================================================
             self.menu_btn_dict = {
                 self.home_btn: Home(),
             }
 
-            ##=======================================================================================================
-            ## Show home page when stat app
-            ##=======================================================================================================
             self.show_home_page()
 
-            ##=======================================================================================================
-            ## Connect signal and slot
-            ##=======================================================================================================
             self.ui.tabWidget.tabCloseRequested.connect(self.close_tab)
             self.ui.search_btn.clicked.connect(self.add_btn_to_recipes_page)
             self.home_btn.clicked.connect(self.show_selected_page)
@@ -111,22 +100,20 @@ class CookbookView(QMainWindow):
             
 
         def add_btn_to_recipes_page(self):
-       
+            cookbook_name = self.ui.lineEdit.text()
             recipe_data = self.load_data("recipes.json")
-
             new_page = RecipePage(recipe_data)
-            recipe_name = self.ui.lineEdit.text()
 
-            cur_index = self.ui.tabWidget.addTab(new_page, recipe_name)
+            # Add the new tab to the tab widget
+            cur_index = self.ui.tabWidget.addTab(new_page, cookbook_name)
             self.ui.tabWidget.setCurrentIndex(cur_index)
             self.ui.tabWidget.setVisible(True)
 
-            button = QPushButton(recipe_name)
-            button.setMaximumSize(QSize(0,0))
-            button.setMaximumSize(QSize(12121121, 16777215))
-            button.setFocusPolicy(Qt.NoFocus)
-            button.setCheckable(True)
+            # Create a button for the new tab
+            button = QPushButton(cookbook_name)
+            # Insert the button into the layout
             self.ui.verticalLayout_2.insertWidget(0, button)
             self.ui.lineEdit.clear()
+            button.clicked.connect(self.show_selected_page)
 
 
