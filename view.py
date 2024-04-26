@@ -1,23 +1,20 @@
-from PySide6.QtWidgets import QApplication, QMainWindow, QMessageBox , QWidget, QVBoxLayout, QPushButton, QLineEdit, QGridLayout, QFrame, QScrollArea, QHBoxLayout
-from PySide6.QtCore import (QCoreApplication, QDate, QDateTime, QLocale,
-    QMetaObject, QObject, QPoint, QRect,
-    QSize, QTime, QUrl, Qt)
+from PySide6.QtWidgets import QMainWindow, QPushButton
 
-import model
+from PySide6.QtGui import QIcon
+
 from ui.main_window_ui import Ui_MainWindow
 from pages_functions.home import Home
-from pages_functions.about import About
 from pages_functions.recipe import RecipePage
-from ui.pages.recipe_ui import RecipeWidget
-import json
-import asyncio
+
 class CookbookView(QMainWindow):
         def __init__(self, model):
             super(CookbookView, self).__init__()
             self.model = model
             self.ui = Ui_MainWindow()
             self.ui.setupUi(self)
+            self.setWindowIcon(QIcon("static/icons/IconApp.ico"))
             self.setWindowTitle("Cookbook")
+
 
 
             self.home_btn = self.ui.homeButton
@@ -96,23 +93,12 @@ class CookbookView(QMainWindow):
                 else:
                     button.setChecked(True)
 
-        def load_data(self, json_file):
-            with open(json_file, 'r', encoding='utf-8') as f:
-                return json.load(f)
-
-
-        async def get_data(self, data):
-            recipe_data = await model.Recipe().get_recipe(data)
-            return  recipe_data
 
         def add_btn_to_recipes_page(self):
-
             cookbook_name = self.ui.lineEdit.text()
-            recipe_dat = self.load_data("recipes.json")
-            print(f"recipe json\n{recipe_dat}")
-            recipe_data = model.Recipe().get_recipe(cookbook_name)
-            print(recipe_data)
+            recipe_data = self.model.get_recipe(cookbook_name)
             new_page = RecipePage(recipe_data)
+
             # Add the new tab to the tab widget
             cur_index = self.ui.tabWidget.addTab(new_page, cookbook_name)
             self.ui.tabWidget.setCurrentIndex(cur_index)
@@ -120,6 +106,7 @@ class CookbookView(QMainWindow):
 
             # Create a button for the new tab
             button = QPushButton(cookbook_name)
+
             # Insert the button into the layout
             self.ui.verticalLayout_2.insertWidget(0, button)
             self.ui.lineEdit.clear()

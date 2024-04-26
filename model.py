@@ -28,7 +28,7 @@ class Recipe:
             # Check if the request was successful (status code 200)
             if response.status_code == 200:
                 # Print the response from the server
-                print("Response from server:", response.json())
+                print("Response from server:\n", response.json())
                 return response.json()
             else:
                 print("Error:", response.status_code)
@@ -39,14 +39,13 @@ class Recipe:
     def get_recipe(self, query):
         url = f'https://localhost:7012/api/Test1/ByCookbookName/{query}'
         response = self.requestApi(url)
-        print(type(response))
         return response
 
 
     def request_EdamamApi(self, query):
         url = f'https://localhost:7012/api/Test2/{query}'
         response = self.requestApi(url)
-        print(response)
+        return response
 
 
 
