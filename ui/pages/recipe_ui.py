@@ -38,7 +38,7 @@ class IngredientsWindow(QDialog):
 
         # Style each ingredient row with a round dot
         formatted_ingredients_text = "<ul>"
-        for ingredient in self.ingredients_text.split("\n"):
+        for ingredient in self.ingredients_text.split(","):
             formatted_ingredients_text += f"<li>&#8226; {ingredient}</li>"
         formatted_ingredients_text += "</ul>"
         ingredients_label.setText(formatted_ingredients_text)
@@ -48,7 +48,7 @@ class IngredientsWindow(QDialog):
 
         self.setLayout(layout)
         self.setWindowTitle("Ingredients List")
-        self.setFixedSize(500, 300)
+        self.setFixedSize(600, 300)
 
 
 class RecipeWidget(QFrame):
@@ -62,7 +62,6 @@ class RecipeWidget(QFrame):
         # Access recipe data only if it's a dictionary
         name_label = QLabel(self.recipe_data.get('name', 'No Name'))
         name_label.setAlignment(Qt.AlignLeft)
-
         layout.addWidget(name_label)
     
         # background_label = QLabel()
@@ -84,8 +83,8 @@ class RecipeWidget(QFrame):
         #         print(f"Error fetching image: {e}")
         #     except Exception as e:
         #         print(f"Error loading image: {e}")
-                
         # layout.addWidget(background_label)
+
         btn_style = """
                         QPushButton {
                             color: #fff;
@@ -126,7 +125,6 @@ class RecipeWidget(QFrame):
             QDesktopServices.openUrl(QUrl(recipe_link))
         
     def open_ingredients_window(self):
-        ingredients_list = self.recipe_data.get('ingredients', [])
-        ingredients_text = "\n".join(ingredients_list)
-        ingredients_window = IngredientsWindow(ingredients_text)
+        ingredients = self.recipe_data.get('ingredients')
+        ingredients_window = IngredientsWindow(ingredients)
         ingredients_window.exec_()

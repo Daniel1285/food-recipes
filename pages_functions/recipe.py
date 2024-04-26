@@ -25,6 +25,9 @@ class RecipePage(QMainWindow):
         """
         Fetches and displays recipes.
         """
+        # Await the coroutine to get the actual data
+        #actual_recipe_data = await self.recipe_data
+
         scroll_area = QScrollArea()  # Create scroll area
         scroll_area.setWidgetResizable(True)  # Allow scroll area content to be resizable
         scroll_area_content = QWidget()  # Create widget for scroll area content
