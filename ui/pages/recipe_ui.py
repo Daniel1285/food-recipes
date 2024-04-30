@@ -6,15 +6,29 @@ import requests
 from PIL import Image
 from io import BytesIO
 
-
 class IngredientsWindow(QDialog):
+    """
+    A dialog window to display a list of ingredients.
+
+    Args:
+        ingredients_text (str): The text containing the list of ingredients.
+        parent (QWidget, optional): The parent widget. Defaults to None.
+    """
 
     def __init__(self, ingredients_text, parent=None):
+        """
+        Initializes the IngredientsWindow.
+
+        Args:
+            ingredients_text (str): The text containing the list of ingredients.
+            parent (QWidget, optional): The parent widget. Defaults to None.
+        """
         super().__init__(parent)
         self.ingredients_text = ingredients_text
         self.init_ui()
 
     def init_ui(self):
+        """Initializes the user interface of the window."""
         layout = QVBoxLayout()
 
         # Create a scroll area to contain the ingredients label
@@ -82,26 +96,25 @@ class RecipeWidget(QFrame):
         name_label.setAlignment(Qt.AlignLeft)
         layout.addWidget(name_label)
 
-        # Display recipe image
         background_label = QLabel()
-        image_url = self.recipe_data.get('imageUrl', '')
+        image_url = self.recipe_data.get('imagUrl', '')
         if image_url:
             try:
-                response = requests.get(image_url)
+                response = requests.get(image_url, timeout=1)
                 if response.status_code == 200:
                     image_data = BytesIO(response.content)
-                    image = Image.open(image_data)
-                    image = image.convert("RGBA")
-                    image_qt = QImage(image.tobytes(), image.size[0], image.size[1], QImage.Format_RGBA8888)
-                    pixmap = QPixmap.fromImage(image_qt)
-                    background_label.setPixmap(pixmap)
+                    background_label.setPixmap(self.image_processing(image_data))
                     background_label.setAlignment(Qt.AlignCenter)
                 else:
                     print(f"Failed to fetch image: HTTP status code {response.status_code}")
             except requests.exceptions.RequestException as e:
                 print(f"Error fetching image: {e}")
+                image_path = r"C:\Users\Daniel\Desktop\food-recipes\static\images\timeOut_image.jpg"
+                background_label.setPixmap(self.image_processing(image_path))
+                background_label.setAlignment(Qt.AlignCenter)
             except Exception as e:
                 print(f"Error loading image: {e}")
+
         layout.addWidget(background_label)
 
         # Create buttons for recipe link and opening grocery window
@@ -150,3 +163,13 @@ class RecipeWidget(QFrame):
         ingredients = self.recipe_data.get('ingredients')
         ingredients_window = IngredientsWindow(ingredients)
         ingredients_window.exec_()
+
+    def image_processing(self, image):
+        """Process the input image and convert it to a QPixmap."""
+        image = Image.open(image)
+        image = image.convert("RGBA")
+        image_qt = QImage(image.tobytes(), image.size[0], image.size[1], QImage.Format_RGBA8888)
+        pixmap = QPixmap.fromImage(image_qt)
+        return pixmap
+
+

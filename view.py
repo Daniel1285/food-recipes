@@ -6,6 +6,7 @@ from ui.main_window_ui import Ui_MainWindow
 from pages_functions.home import Home
 from pages_functions.recipe import RecipePage
 
+import json
 class CookbookView(QMainWindow):
         def __init__(self, model):
             super(CookbookView, self).__init__()
@@ -68,6 +69,7 @@ class CookbookView(QMainWindow):
                 self.ui.toolBox.setCurrentIndex(0)
                 self.show_home_page()
 
+
         def open_tab_flag(self, tab):
             """
             Check if selected window showed or not
@@ -94,9 +96,17 @@ class CookbookView(QMainWindow):
                     button.setChecked(True)
 
 
+        def load_data(self, json_file):
+            with open(json_file, 'r', encoding='utf-8') as f:
+                return json.load(f)
+
+
+
         def add_btn_to_recipes_page(self):
             cookbook_name = self.ui.lineEdit.text()
+            #recipe_data = self.model.request_EdamamApi(cookbook_name)
             recipe_data = self.model.get_recipe(cookbook_name)
+            #recipe_data = self.load_data("recipes.json")
             new_page = RecipePage(recipe_data)
 
             # Add the new tab to the tab widget

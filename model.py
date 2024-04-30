@@ -36,16 +36,32 @@ class Recipe:
             print("Error:", e)
 
 
+    # def get_recipe(self, query):
+    #     url = f'https://localhost:7007/api/Recipe/ByCookbookName/{query}'
+    #     response = self.requestApi(url)
+    #     return response
+
     def get_recipe(self, query):
         url = f'https://localhost:7012/api/Test1/ByCookbookName/{query}'
         response = self.requestApi(url)
         return response
 
 
+    # def request_EdamamApi(self, query):
+    #     url = f'https://localhost:7007/api/Edamam/{query}'
+    #     response = self.requestApi(url)
+    #     return response
+    #
     def request_EdamamApi(self, query):
         url = f'https://localhost:7012/api/Test2/{query}'
         response = self.requestApi(url)
         return response
+
+    def put(self, query):
+        url = f'https://localhost:7012/api/Test1/put/{query}'
+        response = self.requestApi(url)
+        return response
+
 
 
 
