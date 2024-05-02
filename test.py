@@ -1,12 +1,8 @@
 import requests
 import json
+
+import model
 from model import Recipe
-
-APP_ID = '41995353'
-APP_KEY = '6b15ef1f2702dab80a37425f64371705'
-
-# Base URL for the Edamam API
-base_url = 'https://api.edamam.com/search'
 
 def load_data(data):
     with open(data, 'r', encoding='utf-8') as f:
@@ -15,7 +11,9 @@ def load_data(data):
 #================================================================c
 
 def main():
-    pass
+    url = input("Enter url: ")
+    print(url)
+    option = model.Recipe().request_ImaggaApi(url)
 
 
 if __name__ == '__main__':

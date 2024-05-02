@@ -96,26 +96,26 @@ class RecipeWidget(QFrame):
         name_label.setAlignment(Qt.AlignLeft)
         layout.addWidget(name_label)
 
-        background_label = QLabel()
-        image_url = self.recipe_data.get('imagUrl', '')
-        if image_url:
-            try:
-                response = requests.get(image_url, timeout=1)
-                if response.status_code == 200:
-                    image_data = BytesIO(response.content)
-                    background_label.setPixmap(self.image_processing(image_data))
-                    background_label.setAlignment(Qt.AlignCenter)
-                else:
-                    print(f"Failed to fetch image: HTTP status code {response.status_code}")
-            except requests.exceptions.RequestException as e:
-                print(f"Error fetching image: {e}")
-                image_path = r"C:\Users\Daniel\Desktop\food-recipes\static\images\timeOut_image.jpg"
-                background_label.setPixmap(self.image_processing(image_path))
-                background_label.setAlignment(Qt.AlignCenter)
-            except Exception as e:
-                print(f"Error loading image: {e}")
-
-        layout.addWidget(background_label)
+        # background_label = QLabel()
+        # image_url = self.recipe_data.get('imagUrl', '')
+        # if image_url:
+        #     try:
+        #         response = requests.get(image_url, timeout=1)
+        #         if response.status_code == 200:
+        #             image_data = BytesIO(response.content)
+        #             background_label.setPixmap(self.image_processing(image_data))
+        #             background_label.setAlignment(Qt.AlignCenter)
+        #         else:
+        #             print(f"Failed to fetch image: HTTP status code {response.status_code}")
+        #     except requests.exceptions.RequestException as e:
+        #         print(f"Error fetching image: {e}")
+        #         image_path = r"C:\Users\Daniel\Desktop\food-recipes\static\images\timeOut_image.jpg"
+        #         background_label.setPixmap(self.image_processing(image_path))
+        #         background_label.setAlignment(Qt.AlignCenter)
+        #     except Exception as e:
+        #         print(f"Error loading image: {e}")
+        #
+        # layout.addWidget(background_label)
 
         # Create buttons for recipe link and opening grocery window
         btn_style = """

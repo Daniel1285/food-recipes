@@ -93,6 +93,12 @@ class Ui_MainWindow(object):
 
         self.verticalLayout.addWidget(self.homeButton)
 
+        self.imaggaButton = QPushButton(self.general_page)
+        self.imaggaButton.setObjectName(u"imaggaButton")
+        self.imaggaButton.setCheckable(True)
+
+        self.verticalLayout.addWidget(self.imaggaButton)
+
         self.verticalSpacer_general = QSpacerItem(20, 494, QSizePolicy.Policy.Minimum, QSizePolicy.Policy.Expanding)
 
         self.verticalLayout.addItem(self.verticalSpacer_general)
@@ -258,6 +264,7 @@ class Ui_MainWindow(object):
     def retranslateUi(self, MainWindow):
         MainWindow.setWindowTitle(QCoreApplication.translate("MainWindow", u"MainWindow", None))
         self.homeButton.setText(QCoreApplication.translate("MainWindow", u"Home", None))
+        self.imaggaButton.setText(QCoreApplication.translate("MainWindow", u"Image to recipe", None))
         self.toolBox.setItemText(self.toolBox.indexOf(self.general_page), QCoreApplication.translate("MainWindow", u"General", None))
         self.toolBox.setItemText(self.toolBox.indexOf(self.recipes_page), QCoreApplication.translate("MainWindow", u"Recipes", None))
         self.toolBox.setItemText(self.toolBox.indexOf(self.about_page), QCoreApplication.translate("MainWindow", u"About", None))
@@ -265,4 +272,5 @@ class Ui_MainWindow(object):
         self.lineEdit.setPlaceholderText(QCoreApplication.translate("MainWindow", u"Search recipe...", None))
         self.search_btn.setText("")
         self.user_label.setText("")
+    # retranslateUi
 

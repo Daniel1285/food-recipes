@@ -160,6 +160,16 @@ border: none</string>
              </widget>
             </item>
             <item>
+             <widget class="QPushButton" name="imaggaButton">
+              <property name="text">
+               <string>Image to recipe</string>
+              </property>
+              <property name="checkable">
+               <bool>true</bool>
+              </property>
+             </widget>
+            </item>
+            <item>
              <spacer name="verticalSpacer_general">
               <property name="orientation">
                <enum>Qt::Vertical</enum>

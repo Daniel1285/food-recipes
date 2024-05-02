@@ -1,5 +1,5 @@
 import requests
-import json
+from urllib.parse import quote
 class Recipe:
     def __init__(self):
         self.id = None
@@ -41,63 +41,36 @@ class Recipe:
     #     response = self.requestApi(url)
     #     return response
 
+    # def request_EdamamApi(self, query):
+    #     url = f'https://localhost:7007/api/Edamam/{query}'
+    #     response = self.requestApi(url)
+    #     return response
+    #
+
+    # def delete_by_cookbookName(self, query):
+    #     url = f'https://localhost:7007/api/Recipe/DeleteByCookbookName/{query}'
+    #     response = self.requestApi(url)
+    #     return response
+
+
     def get_recipe(self, query):
         url = f'https://localhost:7012/api/Test1/ByCookbookName/{query}'
         response = self.requestApi(url)
         return response
 
 
-    # def request_EdamamApi(self, query):
-    #     url = f'https://localhost:7007/api/Edamam/{query}'
-    #     response = self.requestApi(url)
-    #     return response
-    #
+
     def request_EdamamApi(self, query):
         url = f'https://localhost:7012/api/Test2/{query}'
         response = self.requestApi(url)
         return response
 
-    def put(self, query):
-        url = f'https://localhost:7012/api/Test1/put/{query}'
+    def request_ImaggaApi(self, query):
+        encoded_query = quote(query, safe='')
+        url = f'https://localhost:7012/api/Test3/{encoded_query}'
         response = self.requestApi(url)
         return response
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#===============================================================================================
-        # base_url = "https://api.edamam.com/search"
-        # app_id = "41995353"
-        # app_key = "6b15ef1f2702dab80a37425f64371705"
-        #
-        # response = requests.get(f"{base_url}?q={query}&app_id={app_id}&app_key={app_key}")
-        #
-        # if response.status_code == 200:
-        #     data = response.json()
-        #
-        #     for hit in data.get('hits', []):
-        #         recipe_details = hit.get('recipe', {})
-        #         recipe = Recipe()
-        #         recipe.cookbook_name = query
-        #         recipe.name = recipe_details.get('label')
-        #         recipe.ingredients = ", ".join(recipe_details.get('ingredientLines', []))
-        #         recipe.image_url = recipe_details.get('image')
-        #         recipe.url = recipe_details.get('url')
-        #         recipe.print_recipe()
-        # else:
-        #     print("Failed to retrieve recipe data. Status code:", response.status_code)
+    def delete_by_cookbookName(self, query):
+        url = f'https://localhost:7012/api/Test1/DeleteByCookbookName/{query}'
+        response = self.requestApi(url)
+        return response

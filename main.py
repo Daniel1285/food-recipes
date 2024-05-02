@@ -2,7 +2,7 @@ from PySide6.QtWidgets import QApplication
 from model import Recipe
 from view import CookbookView
 from controller import CookbookController
-
+from pages_functions.image_to_recipe import Image_to_recipe
 
 def main():
     app = QApplication([])
