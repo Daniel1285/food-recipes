@@ -15,28 +15,48 @@ from PySide6.QtGui import (QBrush, QColor, QConicalGradient, QCursor,
     QFont, QFontDatabase, QGradient, QIcon,
     QImage, QKeySequence, QLinearGradient, QPainter,
     QPalette, QPixmap, QRadialGradient, QTransform)
-from PySide6.QtWidgets import (QApplication, QFrame, QGridLayout, QSizePolicy,
-    QSpacerItem, QVBoxLayout, QWidget)
+from PySide6.QtWidgets import (QApplication, QFrame, QGridLayout, QLabel,
+    QSizePolicy, QWidget)
 
 class Ui_Form(object):
     def setupUi(self, Form):
         if not Form.objectName():
             Form.setObjectName(u"Form")
-        Form.resize(899, 569)
+        Form.resize(1757, 804)
+        Form.setStyleSheet(u"")
         self.gridLayout = QGridLayout(Form)
+        self.gridLayout.setSpacing(0)
         self.gridLayout.setObjectName(u"gridLayout")
-        self.result = QFrame(Form)
-        self.result.setObjectName(u"result")
-        self.result.setFrameShape(QFrame.StyledPanel)
-        self.result.setFrameShadow(QFrame.Raised)
-        self.verticalLayout = QVBoxLayout(self.result)
-        self.verticalLayout.setObjectName(u"verticalLayout")
-        self.verticalSpacer = QSpacerItem(20, 528, QSizePolicy.Policy.Minimum, QSizePolicy.Policy.Expanding)
+        self.gridLayout.setContentsMargins(0, 0, 0, 0)
+        self.frame = QFrame(Form)
+        self.frame.setObjectName(u"frame")
+        self.frame.setStyleSheet(u"#frame {\n"
+"    background-image: url(\"C:/Users/Daniel/Desktop/background_home.jpg\") ;\n"
+"    background-position: center; /* Center the background image */\n"
+"}")
+        self.frame.setFrameShape(QFrame.StyledPanel)
+        self.frame.setFrameShadow(QFrame.Raised)
+        self.frame.setLineWidth(0)
+        self.gridLayout_2 = QGridLayout(self.frame)
+        self.gridLayout_2.setSpacing(0)
+        self.gridLayout_2.setObjectName(u"gridLayout_2")
+        self.gridLayout_2.setContentsMargins(0, 0, 0, 0)
+        self.label = QLabel(self.frame)
+        self.label.setObjectName(u"label")
+        font = QFont()
+        font.setFamilies([u"Gabriola"])
+        font.setPointSize(64)
+        font.setBold(False)
+        font.setItalic(False)
+        font.setUnderline(False)
+        font.setStrikeOut(False)
+        self.label.setFont(font)
+        self.label.setAlignment(Qt.AlignCenter)
 
-        self.verticalLayout.addItem(self.verticalSpacer)
+        self.gridLayout_2.addWidget(self.label, 0, 0, 1, 1)
 
 
-        self.gridLayout.addWidget(self.result, 0, 0, 1, 1)
+        self.gridLayout.addWidget(self.frame, 0, 0, 1, 1)
 
 
         self.retranslateUi(Form)
@@ -46,5 +66,6 @@ class Ui_Form(object):
 
     def retranslateUi(self, Form):
         Form.setWindowTitle(QCoreApplication.translate("Form", u"Form", None))
+        self.label.setText(QCoreApplication.translate("Form", u"Find Your Recipe...", None))
     # retranslateUi
 

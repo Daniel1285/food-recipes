@@ -1,7 +1,7 @@
 from PySide6.QtWidgets import QMainWindow, QWidget, QVBoxLayout, QScrollArea, QHBoxLayout
 from ui.pages.recipe_ui import RecipeWidget
 
-class RecipePage(QMainWindow):
+class RecipeTab(QMainWindow):
     """
     Class representing the recipe page in the Cookbook application.
     """
@@ -27,9 +27,11 @@ class RecipePage(QMainWindow):
         """
 
         scroll_area = QScrollArea()  # Create scroll area
+        scroll_area.setStyleSheet("QScrollArea { border: none; }")
         scroll_area.setWidgetResizable(True)  # Allow scroll area content to be resizable
         scroll_area_content = QWidget()  # Create widget for scroll area content
         scroll_area.setWidget(scroll_area_content)  # Set widget for scroll area
+        scroll_area_content.setStyleSheet("background-color: white;")
         scroll_layout = QVBoxLayout(scroll_area_content)  # Create vertical layout for scroll area content
 
         row_layout = None  # Initialize row layout

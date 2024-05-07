@@ -5,6 +5,7 @@ from PySide6.QtGui import QDesktopServices
 import requests
 from PIL import Image
 from io import BytesIO
+from threading import Thread
 
 class IngredientsWindow(QDialog):
     """
@@ -97,25 +98,18 @@ class RecipeWidget(QFrame):
         layout.addWidget(name_label)
 
         # background_label = QLabel()
-        # image_url = self.recipe_data.get('imagUrl', '')
-        # if image_url:
-        #     try:
-        #         response = requests.get(image_url, timeout=1)
-        #         if response.status_code == 200:
-        #             image_data = BytesIO(response.content)
-        #             background_label.setPixmap(self.image_processing(image_data))
-        #             background_label.setAlignment(Qt.AlignCenter)
-        #         else:
-        #             print(f"Failed to fetch image: HTTP status code {response.status_code}")
-        #     except requests.exceptions.RequestException as e:
-        #         print(f"Error fetching image: {e}")
-        #         image_path = r"C:\Users\Daniel\Desktop\food-recipes\static\images\timeOut_image.jpg"
-        #         background_label.setPixmap(self.image_processing(image_path))
-        #         background_label.setAlignment(Qt.AlignCenter)
-        #     except Exception as e:
-        #         print(f"Error loading image: {e}")
-        #
+        # image_path = r"C:\Users\Daniel\Desktop\food-recipes\static\images\timeOut_image.jpg"
+        # background_label.setPixmap(self.image_processing(image_path))
+        # background_label.setAlignment(Qt.AlignCenter)
         # layout.addWidget(background_label)
+
+        background_label = QLabel()
+        image_url = self.recipe_data.get('imageUrl', '')
+        if image_url:
+            thread = Thread(target=self.fetch_image, args=(image_url, background_label))
+            thread.start()
+
+        layout.addWidget(background_label)
 
         # Create buttons for recipe link and opening grocery window
         btn_style = """
@@ -149,8 +143,33 @@ class RecipeWidget(QFrame):
 
         self.setLayout(layout)
         self.setMaximumHeight(300)
+        self.setMaximumWidth(400)
         self.setFrameShape(QFrame.Box)
         self.setFrameShadow(QFrame.Sunken)
+
+    def fetch_image(self, image_url, label):
+        try:
+            response = requests.get(image_url, verify=False)
+            if response.status_code == 200:
+                image_data = BytesIO(response.content)
+                pixmap = self.image_processing(image_data)
+                self.update_image(label, pixmap)
+            else:
+                print(f"Failed to fetch image: HTTP status code {response.status_code}")
+        except requests.exceptions.RequestException as e:
+            print(f"Error fetching image: {e}")
+            image_path = r"C:\Users\Daniel\Desktop\food-recipes\static\images\timeOut_image.jpg"
+            pixmap = self.image_processing(image_path)
+            self.update_image(label, pixmap)
+        except Exception as e:
+            print(f"Error loading image: {e}")
+            image_path = r"C:\Users\Daniel\Desktop\food-recipes\static\images\timeOut_image.jpg"
+            pixmap = self.image_processing(image_path)
+            self.update_image(label, pixmap)
+
+    def update_image(self, label, pixmap):
+        label.setPixmap(pixmap)
+        label.setAlignment(Qt.AlignCenter)
 
     def open_recipe_link(self):
         """Open the recipe link in the default web browser."""
@@ -171,5 +190,3 @@ class RecipeWidget(QFrame):
         image_qt = QImage(image.tobytes(), image.size[0], image.size[1], QImage.Format_RGBA8888)
         pixmap = QPixmap.fromImage(image_qt)
         return pixmap
-
-

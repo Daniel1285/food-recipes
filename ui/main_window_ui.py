@@ -16,9 +16,9 @@ from PySide6.QtGui import (QBrush, QColor, QConicalGradient, QCursor,
     QImage, QKeySequence, QLinearGradient, QPainter,
     QPalette, QPixmap, QRadialGradient, QTransform)
 from PySide6.QtWidgets import (QApplication, QFrame, QGridLayout, QHBoxLayout,
-    QLabel, QLineEdit, QMainWindow, QPushButton,
-    QSizePolicy, QSpacerItem, QSplitter, QTabWidget,
-    QToolBox, QVBoxLayout, QWidget)
+    QLineEdit, QMainWindow, QPushButton, QSizePolicy,
+    QSpacerItem, QSplitter, QTabWidget, QToolBox,
+    QVBoxLayout, QWidget)
 from static import resource_rc
 
 class Ui_MainWindow(object):
@@ -26,9 +26,15 @@ class Ui_MainWindow(object):
         if not MainWindow.objectName():
             MainWindow.setObjectName(u"MainWindow")
         MainWindow.resize(1427, 721)
-        MainWindow.setStyleSheet(u"")
+        MainWindow.setMaximumSize(QSize(1427, 721))
+        MainWindow.setStyleSheet(u"QMainWindow::title {\n"
+"    background-color: #29323c;\n"
+"}")
         self.centralwidget = QWidget(MainWindow)
         self.centralwidget.setObjectName(u"centralwidget")
+        self.centralwidget.setStyleSheet(u"QMainWindow::title {\n"
+"    background-color: #29323c;\n"
+"}")
         self.gridLayout_3 = QGridLayout(self.centralwidget)
         self.gridLayout_3.setSpacing(0)
         self.gridLayout_3.setObjectName(u"gridLayout_3")
@@ -80,7 +86,7 @@ class Ui_MainWindow(object):
 "}")
         self.general_page = QWidget()
         self.general_page.setObjectName(u"general_page")
-        self.general_page.setGeometry(QRect(0, 0, 238, 619))
+        self.general_page.setGeometry(QRect(0, 0, 238, 604))
         self.general_page.setMinimumSize(QSize(0, 0))
         self.verticalLayout = QVBoxLayout(self.general_page)
         self.verticalLayout.setObjectName(u"verticalLayout")
@@ -93,11 +99,11 @@ class Ui_MainWindow(object):
 
         self.verticalLayout.addWidget(self.homeButton)
 
-        self.imaggaButton = QPushButton(self.general_page)
-        self.imaggaButton.setObjectName(u"imaggaButton")
-        self.imaggaButton.setCheckable(True)
+        self.imagtToRecipeButton = QPushButton(self.general_page)
+        self.imagtToRecipeButton.setObjectName(u"imagtToRecipeButton")
+        self.imagtToRecipeButton.setCheckable(True)
 
-        self.verticalLayout.addWidget(self.imaggaButton)
+        self.verticalLayout.addWidget(self.imagtToRecipeButton)
 
         self.verticalSpacer_general = QSpacerItem(20, 494, QSizePolicy.Policy.Minimum, QSizePolicy.Policy.Expanding)
 
@@ -108,7 +114,7 @@ class Ui_MainWindow(object):
         self.toolBox.addItem(self.general_page, icon, u"General")
         self.recipes_page = QWidget()
         self.recipes_page.setObjectName(u"recipes_page")
-        self.recipes_page.setGeometry(QRect(0, 0, 238, 619))
+        self.recipes_page.setGeometry(QRect(0, 0, 238, 604))
         self.verticalLayout_2 = QVBoxLayout(self.recipes_page)
         self.verticalLayout_2.setObjectName(u"verticalLayout_2")
         self.verticalSpacer_recipes = QSpacerItem(20, 598, QSizePolicy.Policy.Minimum, QSizePolicy.Policy.Expanding)
@@ -120,7 +126,7 @@ class Ui_MainWindow(object):
         self.toolBox.addItem(self.recipes_page, icon1, u"Recipes")
         self.about_page = QWidget()
         self.about_page.setObjectName(u"about_page")
-        self.about_page.setGeometry(QRect(0, 0, 238, 619))
+        self.about_page.setGeometry(QRect(0, 0, 238, 604))
         icon2 = QIcon()
         icon2.addFile(u":/icons/icons/info.svg", QSize(), QIcon.Normal, QIcon.Off)
         self.toolBox.addItem(self.about_page, icon2, u"About")
@@ -207,21 +213,6 @@ class Ui_MainWindow(object):
 
         self.horizontalLayout_2.addItem(self.horizontalSpacer_2)
 
-        self.user_label = QLabel(self.search_widget)
-        self.user_label.setObjectName(u"user_label")
-        self.user_label.setMinimumSize(QSize(30, 30))
-        self.user_label.setMaximumSize(QSize(30, 30))
-        self.user_label.setStyleSheet(u"#user_label {\n"
-"	background-color: #fff;\n"
-"	border: 1px solid #F2F4F4;\n"
-"	padding: 5px 5px;\n"
-"	border-radius: 15%;\n"
-"}")
-        self.user_label.setPixmap(QPixmap(u":/icons/icons/user.svg"))
-        self.user_label.setScaledContents(True)
-
-        self.horizontalLayout_2.addWidget(self.user_label)
-
 
         self.gridLayout_2.addWidget(self.search_widget, 0, 0, 1, 1)
 
@@ -264,13 +255,12 @@ class Ui_MainWindow(object):
     def retranslateUi(self, MainWindow):
         MainWindow.setWindowTitle(QCoreApplication.translate("MainWindow", u"MainWindow", None))
         self.homeButton.setText(QCoreApplication.translate("MainWindow", u"Home", None))
-        self.imaggaButton.setText(QCoreApplication.translate("MainWindow", u"Image to recipe", None))
+        self.imagtToRecipeButton.setText(QCoreApplication.translate("MainWindow", u"Image to recipe", None))
         self.toolBox.setItemText(self.toolBox.indexOf(self.general_page), QCoreApplication.translate("MainWindow", u"General", None))
         self.toolBox.setItemText(self.toolBox.indexOf(self.recipes_page), QCoreApplication.translate("MainWindow", u"Recipes", None))
         self.toolBox.setItemText(self.toolBox.indexOf(self.about_page), QCoreApplication.translate("MainWindow", u"About", None))
         self.pushButton_3.setText("")
         self.lineEdit.setPlaceholderText(QCoreApplication.translate("MainWindow", u"Search recipe...", None))
         self.search_btn.setText("")
-        self.user_label.setText("")
     # retranslateUi
 
